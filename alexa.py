@@ -16,7 +16,7 @@ def make_options():
 #    chrome_options.add_experimental_option( "prefs",{'profile.managed_default_content_settings.javascript': 2})
     chrome_options.add_argument("--log-level=3")
     chrome_options.add_argument('disable-gpu')
-#    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--headless')
     chrome_options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.67 Safari/537.36')
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
     chrome_options.add_argument("--disable-extensions")
@@ -56,14 +56,22 @@ def get_rank(data):
         url = replace_url(data['urls.website'])         #기존 CSV파일에 있는 url을 정제하여 https://www.scamadviser/url 형식으로.
         driver.implicitly_wait(4)                      #안정성을 위해서 5초 wait
         driver.get(url)
-#        time.sleep( random.uniform(4,8) )
+        driver.find_elements_by_id
+        time.sleep( random.uniform(0,2) )
+        driver.find_elements_by_class_name('rankmini-rank')
         rank = driver.find_element_by_xpath("//*[@id=\"card_mini_trafficMetrics\"]/div[3]/div[2]/div[1]").text
         print("url : {} , rank {} : ".format(url,rank))
         return rank
+        
     except:
-        rank = 'Err'
-        print("Error ! url : {} , rank {} : ".format(url,rank))
-        return rank
+        try: 
+            rank = driver.find_element_by_xpath("//*[@id=\"card_mini_trafficMetrics\"]/div[2]/div[2]/div[1]").text
+            print("url : {} , rank {} : ".format(url,rank))
+            return rank
+        except:    
+            rank = 'Err'
+            print("Error ! url : {} , rank {} : ".format(url,rank))
+            return rank
     finally:
 #        driver.close()
        driver.quit()
@@ -81,7 +89,7 @@ if __name__=='__main__':
     file_count = split_csv('total_v1.1.csv')
 
     for i in range(file_count):
-        file_name = 'out{}.csv'.format(i+7)
+        file_name = 'out{}.csv'.format(i+8)
         data = pd.read_csv(file_name,encoding ='CP949')
         data = data.to_dict('records')
         try:
