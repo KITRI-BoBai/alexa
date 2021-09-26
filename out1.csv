@@ -1,0 +1,51 @@
+,id,rank,name,valid_url,urls.website,web_score
+50,4705,172,PAX Gold,1,['https://www.paxos.com/paxgold/'],91
+51,1104,177,Augur,1,['http://www.augur.net/'],70
+52,5444,180,Cartesi,1,['https://cartesi.io/'],85
+53,5026,181,Orchid,1,['https://www.orchid.com/'],95
+54,4761,186,NuCypher,1,['https://nucypher.com'],100
+55,2982,192,MVL,1,['http://mvlchain.io'],95
+56,2071,193,Request,1,['https://request.network/'],80
+57,1552,199,Enzyme,1,['https://enzyme.finance/'],40
+58,5015,200,HEX,1,"['https://hex.com/', 'https://go.hex.win/']",100
+59,8085,202,stETH (Lido),1,['https://lido.fi/'],90
+60,5514,207,The Transfer Token,1,"['https://www.atom-solutions.jp/en/xecttt/', 'https://www.atom-solutions.jp/en/']",55
+61,5075,208,Egoras,1,['https://egoras.com/'],95
+62,7321,210,yOUcash,1,['https://youengine.io'],100
+63,11156,211,dYdX,1,['https://dydx.community'],65
+64,5830,212,NXM,1,['https://nexusmutual.io/'],75
+65,3085,213,INO COIN,1,['https://inocoin.eu/'],70
+66,10903,218,Coin98,1,['https://www.coin98.com/'],100
+67,9444,234,Kyber Network Crystal v2,1,['https://kyber.network/'],100
+68,3662,237,HedgeTrade,1,['https://hedgetrade.com/'],100
+69,6952,239,Frax,1,['https://frax.finance/#welcome'],100
+70,5354,244,PEAKDEFI,1,"['http://peakdefi.com/', 'https://app.peakdefi.com/']",25
+71,7857,245,Mirror Protocol,1,['https://mirror.finance'],95
+72,5185,246,KOK,1,['http://kok-chain.io'],54
+73,5566,249,Keep Network,1,['https://keep.network'],100
+74,3928,251,IDEX,1,['https://idex.market/'],100
+75,6958,253,Alchemy Pay,1,['https://www.alchemytech.io/'],100
+76,2927,254,sUSD,1,['https://www.synthetix.io/'],100
+77,9903,255,Convex Finance,1,['https://www.convexfinance.com/'],90
+78,5618,256,Dawn Protocol,1,"['https://dawn.org', 'https://firstblood.io']",81
+79,5631,258,Orion Protocol,1,['https://www.orionprotocol.io/orn'],100
+80,2943,261,Rocket Pool,1,['https://www.rocketpool.net/'],70
+81,5625,263,LUKSO,1,['https://lukso.network'],100
+82,9119,264,Alien Worlds,1,"['https://alienworlds.io', 'https://play.alienworlds.io']",100
+83,10188,267,Automata Network,1,['https://ata.network'],66
+84,2444,273,CRYPTO20,1,['https://invictuscapital.com/en/crypto20'],100
+85,4191,274,Syntropy,1,['http://syntropynet.com/'],46
+86,8911,281,Strike,1,['https://strike.org'],90
+87,8384,283,Clover Finance,1,['https://clover.finance/'],70
+88,5728,284,Balancer,1,"['https://balancer.finance/', 'http://balancer.exchange/']",100
+89,5616,287,MATH,1,['https://mathwallet.org'],65
+90,7461,289,PlayDapp,1,['https://playdapp.io'],85
+91,3816,290,Verasity,1,"['https://www.verasity.io/', 'https://verasity.tv']",100
+92,2840,296,QuarkChain,1,['https://quarkchain.io/'],60
+93,3306,302,Gemini Dollar,1,['https://gemini.com/dollar/'],1
+94,8202,304,ZKSwap,1,"['https://zks.org/en', 'https://zkswap.info/en']",40
+95,2643,305,Sentinel,1,"['https://sentinel.co/', 'https://medium.com/sentinel']",60
+96,7463,306,RAMP,1,['https://rampdefi.com/'],35
+97,4890,308,Newscrypto,1,['https://newscrypto.io/'],100
+98,8206,312,QuickSwap,1,"['https://quickswap.exchange/', 'https://info.quickswap.exchange/home']",100
+99,8536,313,Mask Network,1,['https://www.mask.io'],100

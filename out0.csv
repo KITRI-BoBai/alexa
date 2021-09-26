@@ -1,0 +1,51 @@
+,id,rank,name,valid_url,urls.website,web_score
+0,3408,9,USD Coin,1,['https://www.centre.io/usdc'],100
+1,1975,12,Chainlink,1,"['https://chain.link/', 'https://smartcontract.com/']",100
+2,3717,18,Wrapped Bitcoin,1,['https://wbtc.network'],95
+3,7278,37,Aave,1,"['https://aave.com/', 'https://ethlend.io']",100
+4,6719,42,The Graph,1,['https://thegraph.com'],100
+5,3155,43,Quant,1,['https://quant.network/'],100
+6,6945,57,Amp,1,['https://amptoken.org'],90
+7,5692,58,Compound,1,['https://compound.finance/governance/comp'],100
+8,2135,60,Revain,1,"['https://revain.org/', 'https://company.revain.org']",66
+9,2682,68,Holo,1,"['https://holochain.org/', 'https://holo.host']",100
+10,1966,74,Decentraland,1,['https://decentraland.org/'],100
+11,2130,75,Enjin Coin,1,['https://enjin.io/'],100
+12,2700,78,Celsius,1,['https://celsius.network/'],100
+13,6758,79,SushiSwap,1,['https://sushi.com/'],100
+14,5864,84,yearn.finance,1,['https://yearn.finance/'],71
+15,2394,93,Telcoin,1,['https://www.telco.in/'],80
+16,6538,95,Curve DAO Token,1,"['https://guides.curve.fi/everything-you-need-to-know-about-crv/', 'https://www.curve.fi/']",100
+17,3330,99,Pax Dollar,1,['https://www.paxos.com/usdp/'],91
+18,1727,102,Bancor,1,['https://bancor.network/'],100
+19,1896,104,0x,1,['https://0x.org/'],100
+20,2539,107,Ren,1,['https://renproject.io/'],65
+21,2499,110,SwissBorg,1,['https://swissborg.com/'],100
+22,5777,111,renBTC,1,['https://renproject.io/'],65
+23,5617,113,UMA,1,['https://umaproject.org/'],85
+24,3773,114,Fetch.ai,1,"['https://fetch.ai/', 'https://community.fetch.ai/']",100
+25,1934,119,Loopring,1,['https://loopring.org'],80
+26,1455,120,Golem,1,['https://golem.network/'],100
+27,8104,121,1inch,1,['https://1inch.io/'],100
+28,4279,122,Swipe,1,"['https://swipe.io/', 'https://swipe.org/']",86
+29,5068,124,Neutrino USD,1,['https://neutrino.at/'],80
+30,3964,126,Reserve Rights,1,['https://reserve.org/'],90
+31,2299,127,aelf,1,['http://aelf.io/'],100
+32,1732,129,Numeraire,1,['https://numer.ai/'],100
+33,1772,133,Storj,1,['https://storj.io/'],100
+34,3911,134,Ocean Protocol,1,['https://oceanprotocol.com/'],100
+35,4779,135,HUSD,1,['http://www.stcoins.com/'],100
+36,5691,136,SKALE Network,1,['https://skale.network/'],100
+37,2496,138,Polymath,1,['https://www.polymath.network/'],100
+38,2424,140,SingularityNET,1,['https://singularitynet.io/'],95
+39,2765,143,XYO,1,['https://xyo.network/'],65
+40,3814,150,Celer Network,1,['https://www.celer.network/#'],90
+41,7226,152,Injective Protocol,1,['https://injectiveprotocol.com/'],90
+42,4269,154,GateToken,1,['https://gatechain.io/'],100
+43,2297,156,StormX,1,['https://stormx.io/'],10
+44,5117,162,Origin Protocol,1,"['https://www.originprotocol.com', 'https://www.shoporigin.com']",100
+45,1759,165,Status,1,['http://status.im/'],70
+46,1637,166,iExec RLC,1,"['https://iex.ec/', 'https://docs.iex.ec/']",50
+47,3835,168,Orbs,1,['https://www.orbs.com/'],100
+48,6951,169,Reef,1,['https://reef.finance/'],100
+49,4679,171,Band Protocol,1,['https://bandprotocol.com/'],100

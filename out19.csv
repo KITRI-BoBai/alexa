@@ -1,0 +1,51 @@
+,id,rank,name,valid_url,urls.website,web_score
+950,5993,3377,Lung Protocol,1,['https://lungprotocol.info/'],84
+951,8003,3378,Mirrored Google,1,['https://mirror.finance/'],95
+952,6393,3380,Bytus,1,['http://bytus.io'],80
+953,9580,3381,Evolution Finance,1,['https://www.evolution.finance/'],85
+954,10984,3385,Witch Token,0,,-2
+955,8835,3387,xMARK,1,['https://benchmarkprotocol.finance/'],30
+956,7988,3399,Zugacoin,1,"['http://zugacoin.io', 'http://samzugacoin.com']",45
+957,6911,3401,BNSD Finance,1,"['https://bns.finance/', 'https://bitbns.com/bns/']",40
+958,6628,3402,Meter Governance mapped by Meter.io,1,['https://www.meter.io/'],40
+959,11301,3403,YEL.Finance,1,['https://yel.finance'],25
+960,8084,3405,nHBTC,1,['https://nestprotocol.org/'],100
+961,9062,3409,LinkPool,1,"['https://linkpool.io/', 'https://app.linkpool.io/pools']",85
+962,8337,3413,Secret (ERC20),1,['https://scrt.network'],100
+963,10844,3417,Zerogoki,1,"['https://zerogoki.org/', 'https://zerogoki.finance']",25
+964,6851,3418,GrafSound,1,['http://mygrafsound.com/'],61
+965,11043,3423,Gambler Shiba,1,['https://gamblershiba.finance/'],60
+966,7977,3427,Unit Protocol Duck,1,['https://unit.xyz/'],65
+967,10391,3428,Creator Platform,1,['https://www.creatorchain.network'],30
+968,9662,3432,ShieldEX,1,['http://www.shieldex.io/#/home'],70
+969,6715,3440,Sperax,1,['https://sperax.io/'],100
+970,10420,3446,UCoin,1,"['https://ucoincurrency.io/', 'http://ubisplatform.com/']",1
+971,9153,3453,Interest Bearing Defi Pulse Index,1,['https://basketdao.org/baskets/BDPI'],40
+972,6405,3465,MiniSwap,1,['https://www.miniswap.org'],100
+973,7755,3473,Handy,1,['https://handypick.io/'],75
+974,8887,3474,Cryptocurrency Top 10 Tokens Index,1,['https://indexed.finance'],80
+975,6621,3477,Keysians Network,1,['https://keysians.com/'],45
+976,10469,3480,iMe Lab,1,['https://imem.app/'],90
+977,5445,3487,LBK,1,"['https://www.lbank.info/', 'https://www.lbank.me/']",100
+978,11074,3492,1-UP,1,['https://1-up.fun/'],70
+979,11126,3497,Hypersign identity,1,['https://hypersign.id/'],80
+980,9027,3501,Uhive,1,['https://www.uhive.com/'],95
+981,9651,3504,Ethermon,1,['https://www.ethermon.io/'],100
+982,8243,3505,Passive Income,1,['https://www.passive-income.io'],65
+983,10898,3507,Wrapped Centrifuge,1,"['https://centrifuge.io/', 'https://tinlake.centrifuge.io/']",100
+984,9455,3510,Lemond,1,['https://www.lemond.money/'],70
+985,8789,3512,EDDASwap,1,['https://eddaswap.com/'],45
+986,5648,3526,BlockNoteX,1,['https://blocknote.gold/eng/bnox'],65
+987,4678,3529,Global Digital Content,1,['http://gdctoken.io/'],55
+988,8298,3530,Paralink Network,1,['https://paralink.network/'],90
+989,7425,3536,PayAccept,1,['https://www.payaccept.net'],70
+990,3885,3542,WPP TOKEN,1,['http://wppenergy.io'],85
+991,9805,3543,Evai.io,1,['https://www.evai.io/'],75
+992,7581,3545,Goldblock,0,['https://goldblockeng.imweb.me/'],-1
+993,8071,3547,OnX Finance,1,['https://onx.finance'],25
+994,7618,3549,Alpaca City,1,['https://alpaca.city'],20
+995,7997,3551,renFIL,1,['https://renproject.io/'],65
+996,8599,3554,xToken,1,['https://xtoken.market/'],95
+997,11740,3556,DeFIL,1,['https://defil.org/'],45
+998,5656,3564,1x Short Bitcoin Token,1,['https://ftx.com/tokens/HEDGE'],100
+999,8946,3565,Habitat,1,['https://0xhabitat.org'],36

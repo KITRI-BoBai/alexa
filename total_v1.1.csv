@@ -1,0 +1,1555 @@
+id,rank,name,valid_url,urls.website,web_score
+3408,9,USD Coin,1,['https://www.centre.io/usdc'],100
+1975,12,Chainlink,1,"['https://chain.link/', 'https://smartcontract.com/']",100
+3717,18,Wrapped Bitcoin,1,['https://wbtc.network'],95
+7278,37,Aave,1,"['https://aave.com/', 'https://ethlend.io']",100
+6719,42,The Graph,1,['https://thegraph.com'],100
+3155,43,Quant,1,['https://quant.network/'],100
+6945,57,Amp,1,['https://amptoken.org'],90
+5692,58,Compound,1,['https://compound.finance/governance/comp'],100
+2135,60,Revain,1,"['https://revain.org/', 'https://company.revain.org']",66
+2682,68,Holo,1,"['https://holochain.org/', 'https://holo.host']",100
+1966,74,Decentraland,1,['https://decentraland.org/'],100
+2130,75,Enjin Coin,1,['https://enjin.io/'],100
+2700,78,Celsius,1,['https://celsius.network/'],100
+6758,79,SushiSwap,1,['https://sushi.com/'],100
+5864,84,yearn.finance,1,['https://yearn.finance/'],71
+2394,93,Telcoin,1,['https://www.telco.in/'],80
+6538,95,Curve DAO Token,1,"['https://guides.curve.fi/everything-you-need-to-know-about-crv/', 'https://www.curve.fi/']",100
+3330,99,Pax Dollar,1,['https://www.paxos.com/usdp/'],91
+1727,102,Bancor,1,['https://bancor.network/'],100
+1896,104,0x,1,['https://0x.org/'],100
+2539,107,Ren,1,['https://renproject.io/'],65
+2499,110,SwissBorg,1,['https://swissborg.com/'],100
+5777,111,renBTC,1,['https://renproject.io/'],65
+5617,113,UMA,1,['https://umaproject.org/'],85
+3773,114,Fetch.ai,1,"['https://fetch.ai/', 'https://community.fetch.ai/']",100
+1934,119,Loopring,1,['https://loopring.org'],80
+1455,120,Golem,1,['https://golem.network/'],100
+8104,121,1inch,1,['https://1inch.io/'],100
+4279,122,Swipe,1,"['https://swipe.io/', 'https://swipe.org/']",86
+5068,124,Neutrino USD,1,['https://neutrino.at/'],80
+3964,126,Reserve Rights,1,['https://reserve.org/'],90
+2299,127,aelf,1,['http://aelf.io/'],100
+1732,129,Numeraire,1,['https://numer.ai/'],100
+1772,133,Storj,1,['https://storj.io/'],100
+3911,134,Ocean Protocol,1,['https://oceanprotocol.com/'],100
+4779,135,HUSD,1,['http://www.stcoins.com/'],100
+5691,136,SKALE Network,1,['https://skale.network/'],100
+2496,138,Polymath,1,['https://www.polymath.network/'],100
+2424,140,SingularityNET,1,['https://singularitynet.io/'],95
+2765,143,XYO,1,['https://xyo.network/'],65
+3814,150,Celer Network,1,['https://www.celer.network/#'],90
+7226,152,Injective Protocol,1,['https://injectiveprotocol.com/'],90
+4269,154,GateToken,1,['https://gatechain.io/'],100
+2297,156,StormX,1,['https://stormx.io/'],10
+5117,162,Origin Protocol,1,"['https://www.originprotocol.com', 'https://www.shoporigin.com']",100
+1759,165,Status,1,['http://status.im/'],70
+1637,166,iExec RLC,1,"['https://iex.ec/', 'https://docs.iex.ec/']",50
+3835,168,Orbs,1,['https://www.orbs.com/'],100
+6951,169,Reef,1,['https://reef.finance/'],100
+4679,171,Band Protocol,1,['https://bandprotocol.com/'],100
+4705,172,PAX Gold,1,['https://www.paxos.com/paxgold/'],91
+1104,177,Augur,1,['http://www.augur.net/'],70
+5444,180,Cartesi,1,['https://cartesi.io/'],85
+5026,181,Orchid,1,['https://www.orchid.com/'],95
+4761,186,NuCypher,1,['https://nucypher.com'],100
+2982,192,MVL,1,['http://mvlchain.io'],95
+2071,193,Request,1,['https://request.network/'],80
+1552,199,Enzyme,1,['https://enzyme.finance/'],40
+5015,200,HEX,1,"['https://hex.com/', 'https://go.hex.win/']",100
+8085,202,stETH (Lido),1,['https://lido.fi/'],90
+5514,207,The Transfer Token,1,"['https://www.atom-solutions.jp/en/xecttt/', 'https://www.atom-solutions.jp/en/']",55
+5075,208,Egoras,1,['https://egoras.com/'],95
+7321,210,yOUcash,1,['https://youengine.io'],100
+11156,211,dYdX,1,['https://dydx.community'],65
+5830,212,NXM,1,['https://nexusmutual.io/'],75
+3085,213,INO COIN,1,['https://inocoin.eu/'],70
+10903,218,Coin98,1,['https://www.coin98.com/'],100
+9444,234,Kyber Network Crystal v2,1,['https://kyber.network/'],100
+3662,237,HedgeTrade,1,['https://hedgetrade.com/'],100
+6952,239,Frax,1,['https://frax.finance/#welcome'],100
+5354,244,PEAKDEFI,1,"['http://peakdefi.com/', 'https://app.peakdefi.com/']",25
+7857,245,Mirror Protocol,1,['https://mirror.finance'],95
+5185,246,KOK,1,['http://kok-chain.io'],54
+5566,249,Keep Network,1,['https://keep.network'],100
+3928,251,IDEX,1,['https://idex.market/'],100
+6958,253,Alchemy Pay,1,['https://www.alchemytech.io/'],100
+2927,254,sUSD,1,['https://www.synthetix.io/'],100
+9903,255,Convex Finance,1,['https://www.convexfinance.com/'],90
+5618,256,Dawn Protocol,1,"['https://dawn.org', 'https://firstblood.io']",81
+5631,258,Orion Protocol,1,['https://www.orionprotocol.io/orn'],100
+2943,261,Rocket Pool,1,['https://www.rocketpool.net/'],70
+5625,263,LUKSO,1,['https://lukso.network'],100
+9119,264,Alien Worlds,1,"['https://alienworlds.io', 'https://play.alienworlds.io']",100
+10188,267,Automata Network,1,['https://ata.network'],66
+2444,273,CRYPTO20,1,['https://invictuscapital.com/en/crypto20'],100
+4191,274,Syntropy,1,['http://syntropynet.com/'],46
+8911,281,Strike,1,['https://strike.org'],90
+8384,283,Clover Finance,1,['https://clover.finance/'],70
+5728,284,Balancer,1,"['https://balancer.finance/', 'http://balancer.exchange/']",100
+5616,287,MATH,1,['https://mathwallet.org'],65
+7461,289,PlayDapp,1,['https://playdapp.io'],85
+3816,290,Verasity,1,"['https://www.verasity.io/', 'https://verasity.tv']",100
+2840,296,QuarkChain,1,['https://quarkchain.io/'],60
+3306,302,Gemini Dollar,1,['https://gemini.com/dollar/'],1
+8202,304,ZKSwap,1,"['https://zks.org/en', 'https://zkswap.info/en']",40
+2643,305,Sentinel,1,"['https://sentinel.co/', 'https://medium.com/sentinel']",60
+7463,306,RAMP,1,['https://rampdefi.com/'],35
+4890,308,Newscrypto,1,['https://newscrypto.io/'],100
+8206,312,QuickSwap,1,"['https://quickswap.exchange/', 'https://info.quickswap.exchange/home']",100
+8536,313,Mask Network,1,['https://www.mask.io'],100
+8000,315,Lido DAO Token,1,['https://lido.fi/'],90
+5947,318,TokenPocket,1,['https://www.tokenpocket.pro/'],100
+2467,335,OriginTrail,1,['https://origintrail.io/'],70
+9421,340,Ampleforth Governance Token,1,['https://www.ampleforth.org/'],90
+6859,342,Harvest Finance,1,['https://harvest.finance/'],40
+7486,343,Rari Governance Token,1,['http://rari.capital/'],45
+2896,345,Hifi Finance,1,['https://hifi.finance/'],40
+7590,347,Dvision Network,1,['https://dvision.network/'],30
+7440,352,BarnBridge,1,['https://barnbridge.com/'],85
+2588,361,Loom Network,1,['https://loomx.io/'],95
+5113,362,inSure DeFi,1,['https://insuretoken.net/'],61
+1789,365,Populous,1,['https://populous.world/'],100
+6929,369,Hegic,1,['https://www.hegic.co/'],60
+1856,370,district0x,1,['https://district0x.io/'],100
+6833,373,Litentry,1,['https://www.litentry.com/'],100
+2989,374,STASIS EURO,1,['https://stasis.net'],100
+4056,375,Ampleforth,1,['https://www.ampleforth.org/'],90
+4300,378,VideoCoin,1,['https://www.videocoin.network/'],75
+9638,381,SingularityDAO,1,['https://www.singularitydao.ai/'],65
+2143,383,Streamr,1,['https://streamr.network'],60
+4944,384,Tellor,1,['https://tellor.io/'],100
+6193,387,Cream Finance,1,"['https://cream.finance/', 'https://app.cream.finance/']",100
+5380,393,HUNT,1,"['http://hunt.town/', 'https://review.hunt.town/']",45
+8083,394,Tokenlon Network Token,1,['https://tokenlon.im/lon'],70
+8613,396,Alchemix,1,['https://alchemix.fi/'],55
+5802,397,Sora,1,"['https://sora.org/', 'https://sorascan.com/']",90
+2763,398,Morpheus.Network,1,['https://morpheus.network/'],100
+7535,403,Keep3rV1,1,['https://keep3r.network/'],25
+3581,404,Kleros,1,['https://kleros.io/'],100
+7750,406,Eden,1,['https://www.edennetwork.io/'],1
+8100,410,ankrETH,1,['https://stkr.io/'],100
+3795,412,ZEON,1,['https://zeon.network/'],90
+4134,416,Akropolis,1,['https://akropolis.io/'],95
+5810,419,bZx Protocol,1,['https://bzx.network/'],100
+7798,422,Decentral Games,1,['https://decentral.games'],90
+4862,424,DAD,1,['https://dad.one/'],95
+2245,425,Presearch,1,"['https://www.presearch.io/', 'https://www.presearch.org/']",80
+5601,428,xDai,1,['http://xdaichain.com/'],100
+6536,429,MANTRA DAO,1,['https://mantradao.com/'],20
+6953,430,Frax Share,1,['https://frax.finance/#welcome'],100
+5893,432,Frontier,1,"['https://frontier.xyz/', 'https://frontier.xyz/front/']",95
+6138,447,DIA,1,['https://diadata.org/'],80
+3600,450,Humanscape,1,['https://humanscape.io/'],100
+8191,451,NFTX,1,['https://nftx.org/'],100
+7553,452,unFederalReserve,1,"['https://www.unfederalreserve.com', 'https://lending.unfederalreserve.com']",50
+3936,456,GNY,1,['https://www.gny.io/'],35
+1768,457,AdEx Network,1,['https://www.adex.network/'],100
+8049,458,Tornado Cash,1,['https://app.tornado.cash/'],90
+7497,459,Marlin,1,['https://www.marlin.pro/'],100
+9640,465,MetisDAO,1,['https://www.metis.io'],100
+7883,468,WELL,1,['https://www.bitwellex.com/'],100
+7737,479,API3,1,['https://api3.org/'],100
+4953,480,FirmaChain,1,"['https://firmachain.org/#/', 'https://t.me/firmachain_announcement']",80
+7320,485,Neutrino Token,1,['https://neutrino.at/'],80
+7725,491,TrueFi,1,"['https://truefi.io/', 'https://blog.trusttoken.com/introducing-truefi-the-defi-protocol-for-uncollateralized-lending-9bfd6594a48?gi=460271a00252']",33
+7411,493,Covalent,0,,-2
+2915,495,Moss Coin,1,['https://moss.land'],70
+8525,499,Rai Reflex Index,1,['https://reflexer.finance/'],100
+9938,505,OpenOcean,1,['https://openocean.finance/'],70
+9017,509,Polkadex,1,['https://www.polkadex.trade/'],21
+7617,510,saffron.finance,1,['https://saffron.finance/'],90
+1229,517,DigixDAO,0,"['https://digix.global/dgd/', 'https://community.digix.global/']",80
+2873,521,Metronome,1,['https://www.metronome.io/'],90
+2243,522,Dragonchain,1,['https://dragonchain.com/'],95
+7429,525,Liquity,1,['https://www.liquity.org/'],75
+8827,526,Boson Protocol,1,['http://bosonprotocol.io'],100
+8992,527,Cellframe,1,['https://cellframe.net/'],85
+8985,528,Efinity Token,1,"['https://efinity.io', 'https://enjin.io']",100
+8492,531,Vesper,1,"['https://vesper.finance', 'https://app.vesper.finance']",45
+6947,539,Valobit,1,['https://valobit.io/'],100
+5350,540,Proton,1,['https://www.protonchain.com'],100
+6993,542,REVV,1,['https://www.revvmotorsport.com/'],75
+2058,543,AirSwap,1,['https://www.airswap.io/'],90
+10180,551,GoMining token,1,['https://token.gomining.com/'],70
+8644,552,Kylin,1,['https://kylin.network/'],100
+3753,554,PlatonCoin,1,"['https://platonlife.com/', 'https://platonfinance.com']",55
+3260,559,AMO Coin,1,['https://www.amo.foundation/'],95
+3666,560,Ultiledger,1,['https://www.ultiledger.io/'],-1
+3139,561,DxChain Token,1,['https://dxchain.com/'],100
+3301,563,Invictus Hyperion Fund,1,['https://invictuscapital.com/en/hyperion'],100
+2090,564,LATOKEN,1,['https://latoken.com/'],1
+4293,568,PERL.eco,1,"['https://PERL.eco', 'https://perlinx.finance/']",80
+1710,569,Veritaseum,1,['http://veritas.veritaseum.com/'],65
+9111,572,Ethereum Push Notification Service,1,"['https://epns.io/', 'https://app.epns.io/']",85
+8495,575,Everest,1,['https://www.everest.org/'],100
+10933,579,Impossible Decentralized Incubator Access,1,['https://impossible.finance'],55
+5841,580,NEST Protocol,1,['https://nestprotocol.org/'],100
+4118,584,ForTube,1,['https://for.tube/home'],60
+2212,585,Quantstamp,1,['https://quantstamp.com/'],100
+5423,591,DSLA Protocol,1,"['https://stacktical.com', 'https://dsla.network']",85
+3935,595,SparkPoint,1,['https://sparkpoint.io'],23
+5523,610,Aragon Court,1,['https://anj.aragon.org/'],76
+5821,611,Aleph.im,1,['https://aleph.im/'],63
+5794,612,pNetwork,1,['https://p.network/'],45
+2223,616,BLOCKv,1,['https://blockv.io/'],70
+5966,624,Student Coin,1,"['https://www.studentcoin.org/', 'https://www.studentcoin.education']",100
+3724,628,SOLVE,1,['https://solve.care/'],100
+4275,631,Cocos-BCX,1,['https://www.cocosbcx.io/'],100
+8489,633,XSGD,1,['https://www.xfers.com/sg/stablecoin'],100
+2354,634,GET Protocol,1,"['https://get-protocol.io/', 'https://guts.tickets/']",100
+2161,640,Raiden Network Token,1,['https://raiden.network/'],100
+5798,641,Darwinia Network,1,"['https://darwinia.network/', 'https://docs.darwinia.network/en/']",100
+7219,645,Rubic,1,['https://rubic.exchange/'],55
+9144,649,RAI Finance,1,['https://rai.finance/'],90
+2891,652,Cardstack,1,['https://cardstack.com/'],46
+9104,653,AIOZ Network,1,['https://aioz.network/'],100
+10223,658,Vega Protocol,1,"['https://vega.xyz', 'https://fairground.wtf']",100
+5429,659,DEAPcoin,1,['https://dea.sg/'],100
+4064,660,USDK,1,['https://www.oklink.com/'],100
+5401,663,CoinLoan,1,['https://coinloan.io/'],100
+8025,664,Mirrored Invesco QQQ Trust,1,['https://mirror.finance'],95
+8017,667,Mirrored Microsoft,1,['https://mirror.finance'],95
+8016,669,Mirrored Amazon,1,['https://mirror.finance'],95
+5589,671,DXdao,1,['https://dxdao.eth.link'],100
+8026,672,Mirrored iShares Silver Trust,1,['https://mirror.finance'],95
+1556,675,Chrono.tech,1,['https://chrono.tech/'],70
+3917,676,Sentivate,1,['https://sentivate.com'],50
+8617,678,PolkaFoundry,1,['https://polkafoundry.com'],35
+8001,681,Mirrored Apple,1,['https://mirror.finance/'],95
+2348,685,Measurable Data Token,1,['http://mdt.io/'],65
+9493,687,Reflexer Ungovernance Token,1,['https://reflexer.finance/'],80
+4956,689,MAP Protocol,1,['https://www.maplabs.io/'],50
+9481,690,Pendle,1,['https://pendle.finance/'],100
+8005,691,Mirrored Netflix,1,['https://mirror.finance/'],95
+8004,695,Mirrored Tesla,1,['https://mirror.finance/'],95
+8799,696,InsurAce,1,['https://www.insurace.io/'],30
+2882,697,0Chain,1,"['https://0chain.net/', 'https://t.me/ZCN_announcements']",100
+7424,698,Hermez Network,1,['https://hermez.io/'],35
+8018,701,Mirrored Twitter,1,['https://mirror.finance'],95
+11345,704,Civilization,1,['https://www.civfund.com'],75
+8408,706,Govi,1,['https://cvi.finance/'],100
+8813,707,LABS Group,1,['https://labsgroup.io/'],66
+6731,711,Tokamak Network,1,['https://tokamak.network/'],45
+7024,717,Tixl,1,['https://tixl.org'],100
+10006,719,Graviton,1,['https://graviton.one'],45
+8307,720,DIGG,1,['https://badger.finance/'],80
+8027,721,Mirrored United States Oil Fund,1,['https://mirror.finance'],95
+2842,723,Bankera,1,['https://bankera.com/'],1
+9061,726,Rainicorn,1,['https://rainicoin.io/'],40
+8292,727,Router Protocol,1,['https://www.routerprotocol.com/'],55
+576,730,GameCredits,1,['https://gamecredits.org/'],100
+7509,731,BoringDAO,1,['https://www.boringdao.com/'],60
+7942,734,Curate,1,['https://curate.style'],51
+8006,735,Mirrored Alibaba,1,['https://mirror.finance/'],95
+7870,740,Plasma Finance,1,"['https://plasma.finance', 'https://plasmapay.com']",36
+2600,741,LGO Token,1,['https://lgo.group/'],65
+6588,745,Etherisc DIP Token,1,['https://etherisc.com/'],100
+4841,746,suterusu,1,['https://shield.suterusu.io/'],90
+3356,751,The Midas Touch Gold,1,['https://dgex.io/'],25
+5382,753,ELYSIA,1,['https://elysia.land/'],95
+8771,757,GYEN,1,['https://stablecoin.z.com/'],100
+4490,758,Emirex Token,1,['https://emrx.emirex.com/'],100
+2165,761,ERC20,1,['https://erc20.tech'],70
+8833,762,DeGate,1,['https://www.degate.com/'],75
+2110,763,Dovu,1,['https://www.dovu.earth/'],80
+8024,764,Mirrored iShares Gold Trust,1,['https://mirror.finance'],95
+3840,768,1irstcoin,1,['https://1irstcoin.com'],50
+6430,771,Electric Vehicle Zone,1,['https://www.evzlife.com/'],100
+7533,773,Oraichain Token,1,['https://orai.io/'],95
+2544,774,Nucleus Vision,1,['https://nucleus.vision/'],55
+5600,778,Attila,1,['https://www.attnetwork.org/'],100
+6901,783,Swerve,0,['https://swerve.fi/'],60
+5626,786,King DAG,1,['https://kdag.io/'],80
+5922,789,Swingby,1,['https://swingby.network'],85
+2709,794,Morpheus Labs,1,['https://morpheuslabs.io/'],100
+2545,797,Arcblock,1,['https://www.arcblock.io/'],95
+10700,799,KickToken,1,['https://kickex.com/'],100
+2533,803,Restart Energy MWAT,1,"['https://platformared.ro/en/', 'https://restartenergy.io']",95
+7022,804,Pickle Finance,1,['https://pickle.finance/'],30
+2181,810,Genesis Vision,1,['https://genesis.vision/'],95
+8034,811,BioPassport Token,1,['https://biopassport.io'],80
+8579,812,Polkamarkets,1,['https://www.polkamarkets.com/'],40
+8028,814,Mirrored ProShares VIX,1,['https://mirror.finance'],95
+8484,817,Olyseum,1,['https://olyseum.com/'],70
+4985,819,ArdCoin,1,['https://ardcoin.com/'],40
+4757,824,Robonomics.network,1,"['https://robonomics.network/', 'https://aira.life/en/']",35
+7742,825,88mph,1,['https://88mph.app/'],75
+8271,826,Poolz Finance,1,['https://www.poolz.finance/'],60
+10527,827,Lithium,1,['https://lith.finance/'],100
+8502,829,Mushroom,1,['https://www.mushroom.community'],75
+8726,832,Idavoll Network,1,['https://www.idavoll.network'],30
+7841,833,Idle,1,['https://idle.finance/'],100
+1954,834,Moeda Loyalty Points,1,['https://moedaseeds.com/'],100
+8849,837,AXIS Token,1,"['https://axistoken.io/', 'https://laneaxis.com/']",65
+8567,838,HAPI,1,['https://hapi.one/'],60
+9291,842,Ternoa,1,"['https://www.ternoa.com/', 'https://github.com/capsule-corp-ternoa']",85
+3826,846,TOP,1,['https://www.topnetwork.org/'],100
+3631,849,FOAM,1,['https://foam.space/'],79
+9511,853,Dfyn Network,1,['https://dfyn.network/'],85
+1876,857,Dentacoin,1,['http://www.dentacoin.com/'],100
+5662,858,Sylo,1,"['https://www.sylo.io', 'https://www.sylo.io/wallet']",80
+10932,859,Impossible Finance,1,['https://impossible.finance'],55
+2576,860,Tokenomy,1,['https://www.tokenomy.com/'],30
+2096,861,Ripio Credit Network,1,"['https://rcn.finance/', 'https://rcn.market/']",75
+1834,862,Pillar,1,['https://www.pillar.fi/'],65
+3667,866,Atomic Wallet Coin,1,['https://atomicwallet.io/'],100
+1853,867,OAX,1,['https://oax.org/'],100
+10389,870,Alpha Impact,1,['https://alphaimpact.fi/'],90
+2605,871,BnkToTheFuture,1,['https://bf-token.bnktothefuture.com/#!/'],90
+8279,879,e-Money,1,['https://e-money.com'],100
+6810,880,CYCLUB,1,"['https://www.mcicoin.net', 'https://www.mcnstar.io/']",100
+4586,881,ProBit Token,1,['https://www.probit.com/en-us/token'],100
+8365,882,Crowns,1,['https://www.seascape.network/'],76
+8320,883,PolkaBridge,1,['https://polkabridge.org/'],35
+4026,885,LiquidApps,1,['https://www.liquidapps.io/'],25
+8603,891,AntiMatter,1,['https://antimatter.finance/'],75
+1807,892,Santiment Network Token,1,['https://santiment.net/'],85
+2235,893,Time New Bank,1,['http://tnb.fund/'],50
+8175,894,COVER Protocol,1,['https://www.coverprotocol.com/'],50
+9194,899,Saito,1,"['https://saito.io/', 'https://saito.tech/']",100
+4173,902,Levolution,1,['https://levolution.io/'],80
+8637,907,Tranche Finance,0,"['https://tranche.finance/borrow', 'https://jibrel.network']",80
+1947,909,Monetha,1,['https://www.monetha.io/'],100
+4103,913,FLETA,1,['https://fleta.io/'],75
+2134,916,Grid+,1,['http://gridplus.io/'],60
+8717,920,Oddz,1,['https://oddz.fi/'],1
+2658,927,Smart MFG,1,['https://smartmfg.io/'],100
+8107,931,Cobak Token,1,['https://cobak.co.kr/'],100
+4887,933,Receive Access Ecosystem,1,"['https://raetoken.org', 'https://rokfin.com']",55
+3970,935,Trias (old),1,['https://www.trias.one/'],100
+2363,937,Zap,1,['http://www.zap.org/'],85
+7805,938,Muse,1,['https://nft20.io/'],60
+8620,953,TOWER,1,['https://www.crazydefenseheroes.com/'],75
+9205,954,K21,1,['https://kanon.art/'],60
+4804,957,ROOBEE,1,['https://roobee.io/'],90
+3336,959,IQeon,1,['https://iqeon.io'],100
+5079,962,apM Coin,1,['https://apm-coin.com/'],90
+7503,964,Bithao,1,['https://bithao.io/bithao-home/'],85
+4901,968,Anchor,1,['https://theanchor.io/'],55
+1949,973,Agrello,1,['https://www.agrello.id/'],100
+7776,976,Vanilla Network,1,['https://vanilla.network'],1
+2430,979,Hydro Protocol,1,['https://hydroprotocol.io/'],60
+2151,984,Autonio,1,['https://www.autonio.foundation'],60
+11110,986,Spores Network,1,['https://spores.app/'],60
+7230,990,Opium,1,['https://opium.network/'],80
+8612,991,Float Protocol,1,['https://floatprotocol.com'],65
+3608,994,Howdoo,1,['https://howdoo.io/'],95
+5839,996,AnimalGo,1,['https://animalgo.io/'],100
+2274,997,MediShares,1,['http://www.medishares.org/'],100
+7131,998,YAM V3,1,['https://yam.finance/'],90
+2607,1000,AMLT,1,['https://amlt.coinfirm.com/'],100
+3138,1001,Noku,1,['https://www.noku.io/'],80
+4144,1005,TrueFeedBack,1,['https://www.truefeedback.io/'],40
+5299,1006,HyperDAO,1,['http://www.hyperdao.com'],85
+2569,1007,CoinPoker,1,['https://coinpoker.com/'],100
+2949,1012,Kryll,1,['https://kryll.io/'],100
+2677,1014,Linker Coin,1,['https://www.linkercoin.com/en'],80
+2341,1019,SwftCoin,1,['http://www.swft.pro/'],62
+8409,1020,Razor Network,1,['https://razor.network/'],75
+2630,1025,PolySwarm,1,['https://polyswarm.io/'],100
+3634,1026,Kambria,1,['https://kambria.io'],100
+7225,1030,DeFiner,1,['https://definer.org/'],65
+3609,1033,CWV Chain,1,['https://cwv.io'],26
+7017,1043,MoonSwap,1,['https://moonswap.fi/'],55
+1721,1045,Mysterium,1,['https://mysterium.network/'],100
+2847,1046,Abyss,1,['https://abyss.finance'],65
+8132,1051,BiFi,1,"['https://bifi.finance/', 'https://thebifrost.io/']",45
+6283,1053,Blocery,1,"['http://blocery.io/', 'http://blocery.co.kr/']",76
+7216,1056,LuaSwap,1,['https://luaswap.org/#/'],60
+2342,1060,Covesting,1,['https://covesting.io/'],100
+2458,1062,Odyssey,1,"['http://www.ocnex.net/', 'http://ocoins.es/']",50
+8043,1063,MahaDAO,1,['https://mahadao.com/'],45
+3632,1066,Opacity,1,['https://opacity.io/'],90
+3519,1069,Breezecoin,1,['https://www.breezecoin.io'],45
+7500,1070,Bonded Finance,1,['https://bonded.finance/#firstsec'],60
+6870,1073,OIN Finance,1,['https://oin.finance/'],95
+2296,1078,OST,1,['https://ost.com'],50
+9251,1080,Standard Protocol,1,['https://standard.tech/'],70
+2468,1083,LinkEye,1,['http://www.linkeye.com/'],100
+7143,1092,DiFy.Finance,1,['https://dify.finance'],70
+8080,1093,DeFi Yield Protocol,1,['https://dyp.finance/'],50
+8708,1094,Big Data Protocol,1,['https://bigdataprotocol.com'],80
+8695,1095,Blank Wallet,1,['https://www.goblank.io/'],10
+2251,1097,IoT Chain,1,['https://iotchain.io/'],80
+8963,1098,UnMarshal,1,['https://unmarshal.io/'],30
+9029,1101,Graphlinq Protocol,1,['https://graphlinq.io/'],75
+9417,1105,Maple,1,['https://maple.finance/'],100
+2446,1108,DATA,1,['http://data.eco/'],60
+9134,1110,Beyond Finance,1,['https://beyondfinance.io'],60
+2307,1115,Bibox Token,1,['https://www.bibox.com/'],100
+7931,1116,Bondly,1,['https://www.bondly.finance/'],56
+6261,1117,hybrix,1,"['https://hybrix.io/', 'https://internetofcoins.org']",100
+7677,1118,ReapChain,1,['https://www.reapchain.com/'],50
+6650,1120,NFT,1,['https://www.nft.org/'],100
+3164,1122,PumaPay,1,['https://pumapay.io/'],100
+2645,1126,U Network,1,['https://u.network/'],65
+2686,1128,Lendingblock,1,['https://lendingblock.com/'],30
+2313,1131,SIRIN LABS Token,1,['http://www.sirinlabs.com/'],100
+3156,1134,Airbloc,1,['https://www.airbloc.org/'],70
+2476,1138,Ruff,1,['http://ruffchain.com/'],40
+8996,1140,Mogul Productions,1,['https://www.mogulproductions.com/'],95
+2511,1145,WePower,1,['https://wepower.network/'],80
+7860,1147,ClinTex CTi,1,['https://clintex.io'],75
+6622,1150,Hakka.Finance,1,['https://hakka.finance/'],60
+7758,1151,Eauric,1,"['https://eauric.com/', 'http://eleutherus.com/']",45
+2291,1152,Genaro Network,1,['https://genaro.network/'],95
+3883,1157,QuickX Protocol,1,['https://www.quickx.io/'],70
+5634,1158,Fuse Network,1,['http://fuse.io'],80
+7348,1161,Portion,1,['https://portion.io/'],100
+7765,1169,Benchmark Protocol,1,['https://benchmarkprotocol.finance/'],30
+8030,1170,NFTLootBox,1,['https://nftlootbox.com'],70
+3809,1174,DOS Network,1,['https://dos.network'],80
+10055,1177,Crust Shadow,1,['https://crust.network/'],95
+2277,1178,SmartMesh,1,['https://smartmesh.io/'],80
+10103,1180,Lossless,1,['https://lossless.cash'],65
+6625,1182,Innovation Blockchain Payment,1,['https://www.ibp.world/'],90
+8519,1184,Xend Finance,1,['https://xend.finance/'],90
+7795,1185,Bird.Money,1,['https://www.bird.money/'],1
+8424,1189,Deri Protocol,1,['https://deri.finance/'],85
+4860,1190,Era Swap,1,"['https://eraswap.life/', 'https://eraswaptoken.io/']",75
+8300,1194,PolkaCover,1,['https://www.polkacover.com/'],35
+8702,1195,Ares Protocol,1,['https://aresprotocol.io/'],30
+3607,1196,VestChain,1,['https://vestchain.io/'],80
+7772,1202,Leverj Gluon,1,['https://www.leverj.io/'],65
+2835,1206,Endor Protocol,1,['https://www.endor.com/'],91
+3734,1215,Elamachain,1,['https://www.elamachain.io/'],65
+2711,1218,DOC.COM,1,['https://doc.com/'],100
+2453,1220,EDUCare,1,['http://ekt8.io/'],65
+2450,1228,carVertical,1,['https://www.carvertical.com/investors'],100
+4199,1229,Swace,1,['https://swace.io/'],85
+8162,1240,AMEPAY,1,['https://amepay.io/'],50
+5880,1242,Props Token,1,['https://www.propsproject.com/'],100
+3899,1246,Zloadr,1,"['https://www.zloadr.com', 'https://asset.zloadr.com/']",95
+6718,1248,Growth DeFi,1,"['https://growthdefi.com/', 'https://growthdefi.com/']",65
+2653,1250,Auctus,1,['https://auctus.org/'],60
+7422,1255,PlotX,1,['https://plotx.io/'],75
+2830,1260,Seele-N,1,"['https://seelen.pro/#/', 'http://seele.pro/']",92
+8385,1262,Umbrella Network,1,['https://www.umb.network/'],80
+7826,1264,Zoracles,1,['https://zoracles.com'],75
+1983,1265,VIBE,1,['https://www.vibehub.io/'],95
+5719,1267,CACHE Gold,1,['https://cache.gold'],75
+2737,1271,Global Social Chain,1,['https://www.gsc.social'],65
+7866,1275,Monavale,1,['https://www.digitalax.xyz/'],25
+5674,1277,PhoenixDAO,1,['https://phoenixdao.io'],55
+1786,1278,SunContract,1,['https://suncontract.org/'],100
+7222,1281,yAxis,1,['https://yaxis.io/'],100
+3800,1282,FidexToken,1,['https://fidex.market'],90
+2869,1283,Merculet,1,['https://www.merculet.io/'],23
+7034,1285,Golff,1,['https://www.golff.finance/'],100
+2336,1287,Game.com,1,"['http://game.com/', 'https://gtc.game.com/']",100
+3279,1288,Rotharium,1,['https://www.rotharium.io'],85
+7256,1292,Mettalex,1,['https://mettalex.com/'],100
+2739,1296,Digix Gold Token,0,"['https://digix.global/dgx', 'https://digix.global/app/#/provenance/assets-explorer/assets-list']",80
+2601,1298,1World,1,['https://ico.1worldonline.com'],70
+3431,1299,Iconic Token,1,"['https://iconicholding.com/icnq-token/', 'https://iconicholding.com/icnq-token/']",35
+8544,1300,Fractal,1,['https://protocol.fractal.id/'],100
+7812,1311,SYNC Network,1,['https://syncbond.com/'],50
+2726,1312,DAOstack,1,['https://daostack.io'],100
+3733,1316,S4FE,1,['https://www.s4fe.org/'],75
+5833,1318,ASKO,1,"['https://asko.finance/', 'https://asko.online/']",80
+8643,1319,Shadows,1,['https://shadows.link/'],20
+8376,1321,MASQ,1,['https://masq.ai/'],75
+3636,1322,Link Machine Learning,1,['https://www.gny.io/lml'],35
+2906,1327,Essentia,1,['https://essentia.one/'],100
+6938,1328,YFDAI.FINANCE,1,['https://yfdai.finance'],40
+2661,1331,Tripio,0,['https://trip.io/'],95
+5902,1334,DragonVein,1,['http://www.dragonvein.io/'],55
+2775,1338,Faceter,1,['https://tokensale.faceter.io/'],50
+2240,1342,SoMee.Social [OLD],1,"['https://somee.social/', 'https://www.ongcoin.com/']",90
+2913,1344,Databroker,1,['http://databrokerdao.com'],85
+7038,1350,Xfinance,0,['https://xfinance.io/'],80
+2766,1351,Cryptaur,1,['https://cryptaur.com/'],100
+7376,1353,Doki Doki Finance,1,['https://dokidoki.finance/'],70
+1976,1360,Blackmoon,1,['https://www.blackmoon.net'],65
+7587,1361,UTU Protocol,1,['https://utu.io/'],100
+2547,1362,Experty,1,['https://experty.io/en'],100
+2366,1363,FairGame,1,['https://fair.game/'],100
+5871,1368,Falcon Project,1,['https://falconofficial.com'],100
+4053,1369,Q DAO Governance token v1.0,1,['https://qdefi.io/en'],90
+7694,1379,Governor DAO,1,['https://governordao.org/'],100
+8181,1380,DePay,1,['https://depay.fi'],-1
+5277,1383,SynchroBitcoin,1,"['https://www.snbtoken.io', 'https://synchrobit.io']",86
+7559,1386,Tadpole Finance,1,['https://tadpole.finance/index.html'],90
+5300,1395,Inex Project,1,['https://www.inexprojectofficial.com/'],70
+9236,1396,TopBidder,1,['https://bidder.top/#/lbp'],90
+7298,1398,Phantasma Energy,1,['https://Phantasma.io'],50
+6583,1401,Multiplier,1,['https://multiplier.finance'],90
+9149,1402,Cryptonovae,1,['https://cryptonovae.com'],100
+4712,1403,AmonD,1,['https://www.amond.cc/'],45
+9550,1407,PERI Finance,1,"['https://www.pynths.com/', 'https://staking.peri.finance/']",85
+3988,1409,VNT Chain,1,['http://vntchain.io/?language=en'],80
+9663,1411,ArGo,1,['https://argoapp.live'],35
+2945,1412,ContentBox,1,['https://contentbox.one/'],83
+8260,1413,Indexed Finance,1,['https://indexed.finance/'],80
+8704,1416,Playcent,1,['http://playcent.com'],90
+3687,1417,BitBall,1,"['https://www.bitball-btb.com/', 'https://bitball-dex.com/']",80
+7487,1419,Chonk,1,['https://www.chonker.finance/'],40
+2705,1420,Amon,1,['https://amon.tech/'],90
+4927,1422,RigoBlock,1,['https://rigoblock.com/'],100
+9289,1424,Chainswap,1,"['https://chainswap.com', 'https://exchange.chainswap.com']",100
+3492,1427,Vetri,1,['https://vetri.global/'],100
+1948,1429,Aventus,1,['https://www.aventus.io/'],60
+3474,1435,YGGDRASH,1,['https://yggdrash.io'],45
+9563,1437,TradeStars,1,['https://tradestars.app/'],60
+9440,1439,Mochi Market,1,"['https://app.mochi.market', 'https://farm.mochi.market']",95
+7681,1440,Ideaology,1,"['https://ideaology.io', 'https://activeidea.com']",100
+8509,1441,XMON,1,['https://0xmons.xyz/'],25
+11727,1444,Phoenix Token,1,['https://www.phx.finance/'],80
+3397,1446,Neural Protocol,0,['https://www.nrp.world'],100
+3079,1452,X8X Token,1,['https://x8currency.io'],55
+2428,1455,Scry.info,1,['https://home.scry.info/'],54
+5544,1456,Aluna.Social,1,"['https://aluna.social', 'https://aluna.social/token']",95
+2248,1458,Cappasity,1,"['https://artoken.io/', 'https://cappasity.com/']",100
+6940,1463,Lead Wallet,1,['https://www.leadwallet.io'],50
+9553,1470,B-cube.ai,1,"['https://ico.b-cube.ai/', 'https://www.b-cube.ai/index.html']",75
+2546,1472,Remme,1,"['https://remme.io/', 'https://tokensale.remme.io/']",70
+7310,1474,Gem Exchange And Trading,1,['https://www.gxtglobal.com/'],90
+5868,1475,STATERA,1,['https://stateratoken.com/'],85
+7739,1479,DexKit,1,['http://dexkit.com/'],100
+2837,1480,0xBitcoin,1,['https://0xbitcoin.org/'],70
+2438,1484,Acute Angle Cloud,1,['http://acuteangle.com/'],100
+10845,1485,Zerogoki USD,1,"['https://zerogoki.org/', 'https://zerogoki.finance']",30
+3912,1490,W Green Pay,1,['https://wpay.sg/'],55
+7498,1496,Yield Protocol,1,['https://yieldprotocol.org/'],45
+5086,1497,Pawtocol,1,['https://pawtocol.com/'],35
+2437,1500,YEE,0,['https://www.yeefoundation.com/'],-1
+2506,1502,Swarm,1,"['https://www.swarmnetwork.org', 'https://www.swarm.fund/']",95
+5187,1508,Jarvis Network,1,['https://jarvis.network'],83
+1905,1509,TrueFlip,1,"['https://trueflip.io/', 'https://steemit.com/@trueflip/']",16
+895,1511,Xaurum,1,['http://www.xaurum.org/'],90
+2735,1512,Content Neutrality Network,1,['https://cnntoken.io/'],65
+5468,1518,Isiklar Coin,1,['https://www.isikc.io'],1
+10372,1524,Dacxi,1,"['https://dacxi.com/dacxi-coin', 'https://dacxi.com/']",100
+4124,1528,EOS TRUST,0,['https://eostrustlink.io/'],-1
+7806,1529,Cornichon,1,['https://cornichon.ape.tax/'],55
+3066,1530,BitCapitalVendor,1,['https://www.bitcv.com'],65
+4520,1537,Decentralized Vulnerability Platform,1,['https://dvpnet.io/'],-1
+8709,1539,ETHA Lend,1,['https://ethalend.org/'],100
+2699,1547,Sharder,1,['https://sharder.org/'],60
+9245,1550,Signata,1,"['https://signata.net', 'https://sata.technology/']",75
+3475,1551,BOX Token,0,['https://box.la/'],-1
+2698,1553,Hydro,1,['https://projecthydro.org'],75
+2691,1554,Penta,0,['https://www.penta.global/'],90
+11164,1562,Vabble,1,['https://www.vabble.com'],100
+7885,1563,Katalyo,1,"['https://www.katalyo.com', 'https://defi.katalyo.com']",90
+2667,1565,FintruX Network,1,['https://www.fintrux.com/'],100
+5203,1569,Perth Mint Gold Token,1,['https://www.pmgt.io'],80
+2938,1571,Hashgard,1,['https://www.hashgard.com/'],85
+5587,1582,2key.network,1,"['https://2key.network', 'https://2key.network']",40
+5409,1584,4THPILLAR TECHNOLOGIES,1,['https://the4thpillar.io/'],65
+8478,1585,DAOventures,1,['https://www.daoventures.co'],60
+8710,1590,bAlpha,1,['https://bigdataprotocol.com/'],80
+9024,1591,disBalancer,1,['https://disbalancer.com/'],65
+7398,1594,Coreto,1,['https://coreto.io'],75
+7783,1595,Open Governance Token,1,['https://opendao.io/'],65
+1984,1596,Substratum,1,['https://substratum.net/'],100
+3779,1605,CoTrader,1,['https://cotrader.com/'],65
+7874,1609,PieDAO DEFI++,1,['https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033'],35
+4091,1611,PIXEL,1,['https://piction.network/en/'],90
+8772,1612,ZUSD,1,['https://stablecoin.z.com/'],100
+3810,1614,Ethereum Gold Project,1,['https://www.etgproject.org'],25
+5997,1621,Libertas Token,1,"['https://libertas.network', 'https://vox.libertas.network/']",90
+2644,1623,eosDAC,1,['https://eosdac.io/'],100
+6592,1634,BarterTrade,0,['https://bartertrade.io/'],100
+4818,1641,Xensor,0,['https://xensor.cc/'],-1
+2890,1643,KanadeCoin,1,['https://kanadecoin.com/'],85
+8945,1645,StakedZEN,1,"['https://stakehound.com/', 'https://www.horizen.io/stzen/']",60
+5572,1648,HOMIHELP,1,['https://www.homihelp.com/'],35
+8601,1649,Font,1,['https://font.community'],40
+8934,1654,StakerDAO,1,['https://www.stakerdao.com/'],100
+8128,1657,DFSocial Gaming,1,['https://dfsocial.com/'],70
+2044,1661,Enigma,1,['https://enigma.co/'],100
+2022,1662,Internxt,1,['https://internxt.com/'],100
+1669,1669,Humaniq,1,['https://humaniq.com/'],100
+3140,1676,Ubex,1,['https://www.ubex.com/'],100
+8867,1677,DeHive,1,['https://www.dehive.finance'],80
+4703,1685,BonusCloud,1,['https://bonuscloud.io/'],75
+7993,1688,Node Runners,1,['https://noderunners.io/'],85
+3735,1689,VegaWallet Token,1,['https://VegaWallet.com'],75
+2953,1690,Blue Whale EXchange,1,['https://www.bluewhale.foundation/'],50
+4034,1702,Jarvis+,1,['http://www.jarvisplus.com/'],80
+2325,1707,Matryx,1,['https://matryx.ai/'],95
+3337,1716,QChi,1,['http://qchi.mobi/'],64
+3715,1717,Cajutel,1,['https://cajutel.io'],65
+2503,1719,DMarket,1,['https://dmarket.com/'],100
+9958,1723,SafeMoon Inu,1,['https://www.safemooninu.com'],25
+3127,1724,Themis,1,['https://themis.network/'],100
+5083,1725,Curio,1,"['https://curioinvest.com/', 'https://curiocar.com/']",60
+4777,1730,Azbit,1,['https://azbit.com/'],100
+2162,1731,Delphy,1,['https://delphy.org/'],70
+4001,1732,MenaPay,0,['https://www.menapay.io/'],40
+7436,1733,BonFi,1,['https://bon.finance'],95
+3774,1739,Maincoin,1,['https://maincoin.money/'],1
+8561,1744,KeyFi,1,['https://keyfi.com'],80
+3011,1746,BitScreener Token,1,['https://bitx.bitscreener.com/'],100
+2970,1750,LocalCoinSwap,1,['https://www.localcoinswap.com'],96
+7647,1752,Azuki,1,['https://dokidoki.finance/'],70
+11329,1758,KamPay,1,['https://www.kampay.io'],45
+2880,1761,Rate3,0,['https://www.rate3.network/'],-1
+8418,1762,CryptoTask,1,['https://www.cryptotask.org'],100
+2879,1768,Origin Sport,1,['https://www.originsport.io/'],65
+7867,1770,Bitcashpay,1,['https://bitcashpay.net'],100
+3220,1771,DAV Coin,1,['https://dav.network/'],70
+2493,1772,STK,0,['https://stktoken.com/'],-1
+7838,1778,Base Protocol,1,['https://www.baseprotocol.org/'],70
+3658,1781,Fountain,1,['https://fountainhub.com'],85
+7747,1782,reflect.finance,1,['https://reflect.finance'],35
+2528,1785,Dether,1,['https://dether.io/'],70
+2391,1786,EchoLink,1,['https://echolink.info/'],64
+3823,1790,OLXA,0,['https://www.olxacoin.com'],50
+7803,1796,Ethereum Stake,1,['https://ethereumstake.farm'],75
+2126,1798,FlypMe,1,['https://flyp.me/'],65
+3755,1800,Moneynet,1,"['http://moneynet.io', 'https://www.moneynet.co.kr/']",100
+2920,1813,0xcert,1,['https://0xcert.org/'],100
+3648,1820,CoinUs,1,['https://www.coinus.io/'],95
+8496,1824,Wolves of Wall Street,1,['https://wolvesofwallstreet.finance'],65
+8543,1826,Kangal,1,['https://www.kangaltoken.com/'],65
+5620,1827,8X8 PROTOCOL,1,['https://8x8protocol.io'],85
+8363,1828,renDOGE,1,['https://renproject.io/'],65
+8439,1832,Warp Finance,1,['https://warp.finance/'],100
+2295,1833,Starbase,1,['https://starbase.co/'],65
+3264,1838,Digital Insurance Token,1,['https://inmediate.io'],80
+3505,1841,Typerium,1,"['https://typerium.io/', 'https://typerium.com']",36
+2723,1842,FuzeX,0,['https://fuzex.co/'],70
+1861,1846,Stox,1,['https://www.stox.com/'],10
+2120,1847,Etherparty,0,['https://etherparty.com/'],100
+2478,1848,CoinFi,1,['http://www.coinfi.com/'],100
+2374,1856,BitDegree,1,['https://www.bitdegree.org/'],100
+3650,1857,COVA,1,['https://covalent.ai/'],95
+1596,1860,Edgeless,1,"['https://edgeless.io/', 'https://www.edgelessgroup.io/']",55
+2549,1864,Ink Protocol,1,['https://paywithink.com'],76
+2707,1865,FLIP,1,['https://fliptoken.gameflip.com/'],100
+3589,1867,Ethereum Meta,1,['https://ethermeta.com/'],80
+4534,1876,BITTO,1,"['http://www.bittoexchange.com/', 'http://www.bitto.tech/']",70
+3659,1877,QUINADS,1,['https://quinads.com'],90
+1638,1881,WeTrust,1,"['https://www.wetrust.io/', 'https://spring.wetrust.io/']",85
+3369,1883,Kuende,1,"['https://kuende.com/', 'https://ico.kuende.com/']",100
+2564,1886,HOQU,1,['https://www.hoqu.io/'],85
+2771,1888,RED,1,"['https://ico.red-lang.org/', 'https://www.red-lang.org/']",33
+3120,1893,OWNDATA,1,['https://owndata.network/'],90
+4903,1895,Infinity Esaham,1,['https://e-sahaminfinity.com/'],20
+9264,1896,PolkaDomain,0,,-2
+2573,1897,Electrify.Asia,1,['https://electrify.asia/'],35
+3423,1898,Sharpay,1,['https://sharpay.io'],65
+5858,1899,QANplatform,1,['https://qanplatform.com'],40
+2965,1900,VikkyToken,0,['https://ico.vikky.io'],-1
+2382,1902,Spectre.ai Utility Token,1,['http://www.spectre.ai/'],61
+5894,1903,DoYourTip,1,['https://doyourtip.io/'],35
+4207,1908,Birdchain,1,['https://www.birdchainapp.com/'],85
+7572,1909,Yearn Secure,1,['https://ysec.finance'],80
+9492,1912,ETHERLAND,1,"['https://elandatlas.com/', 'https://etherland.world/']",25
+1902,1924,MyBit,1,['https://mybit.io/'],100
+7262,1926,extraDNA,1,['https://xhumanity.org/'],60
+1751,1930,ATC Coin,1,['http://www.atccoin.com/'],69
+1937,1936,Po.et,1,['https://po.et/'],75
+2955,1937,Cosmo Coin,1,['https://cosmochain.io/'],90
+2136,1938,ATLANT,1,['https://atlant.io/'],100
+7582,1941,Keep4r,1,['https://kp4r.network/#/'],70
+7716,1944,Earnbase,1,['https://earnbase.org'],70
+7743,1948,Ethereum Yield,1,['https://ethereumyield.farm'],40
+4681,1951,Color Platform,0,"['https://color-platform.org/~colors/en/', 'https://www.colors.org/']",85
+6670,1954,Axis DeFi,1,['https://axisdefi.com'],40
+3813,1959,PTON,0,['https://foresting.io/'],90
+3965,1961,TouchCon,1,['http://www.touchcon.org/'],-1
+2555,1965,Sether,0,"['https://www.sether.io/', 'https://sether.com/']",-1
+2584,1967,Debitum,1,['https://debitum.network/'],100
+3669,1969,Winco,0,['https://winco.io'],65
+4255,1970,CryptoAds Marketplace,1,['https://cryptoads.exchange/'],70
+3764,1974,Save Environment Token,1,['https://www.set4earth.com/'],70
+1658,1980,Lunyr,1,['https://lunyr.com/'],90
+4826,1986,ZUM TOKEN,1,['https://zumtoken.com/'],70
+3757,1988,GMB,0,['https://gmbplatform.io/'],55
+2260,1990,Datamine,1,['https://datamine.network/'],-1
+2330,1992,Pylon Network,1,['https://pylon-network.org/'],81
+6933,1996,Nuco.cloud,1,['https://nuco.cloud/'],75
+3639,2005,PlayGame,0,['https://its.playgame.com/'],-1
+2908,2012,HashCoin,1,['https://www.hashfuture.io/'],80
+8036,2019,YVS.Finance,1,['https://yvs.finance'],50
+2551,2022,Bezop,1,"['https://bezop.com/', 'https://ecom.bezop.io/welcome/']",100
+3465,2023,Alt.Estate token,1,['https://alt.estate/'],80
+3078,2027,Kind Ads Token,1,['https://kindads.io/'],100
+3506,2031,IONChain,1,['http://ionchain.org/'],75
+8082,2035,Tornado,1,['https://tornado.finance'],60
+4577,2038,LunchMoney,1,['https://www.lunchmoney.io'],65
+4116,2040,TOKPIE,1,['https://tokpie.io/'],66
+6503,2050,RMPL,1,['https://www.rmpl.io/'],55
+5545,2064,NFX Coin,1,['https://nfxcoin.io/'],90
+7876,2066,Sora Validator Token,1,['https://sora.org/'],90
+5709,2070,Chi Gastoken,1,['https://1inch.exchange/#/'],100
+2628,2073,Rentberry,1,"['https://ico.rentberry.com/', 'https://rentberry.com/']",100
+4273,2074,Sessia,1,['https://sessia.com/'],95
+7989,2080,fyeth.finance,1,"['https://fyeth.finance/', 'https://yethstaking.finance/']",75
+3148,2081,MetaMorph,1,['https://metamorph.pro/'],62
+5016,2084,Innovative Bioresearch Coin,1,['https://www.innovativebioresearch.com/'],91
+7575,2086,nYFI,1,['https://nestprotocol.org/'],100
+3141,2095,Blockpass,1,['https://blockpass.org/'],100
+2310,2096,Bounty0x,1,['https://bounty0x.io/'],100
+2944,2097,Elysian,1,['https://elycoin.io'],75
+2717,2098,BoutsPro,1,['https://www.bouts.pro'],62
+9109,2100,Savix,1,['https://savix.org/'],25
+2279,2105,Playkey,1,"['https://playkey.io/', 'https://playkey.net/']",100
+2406,2108,InvestDigital,1,['https://investdigital.info/'],59
+9432,2109,Crypto Kombat,1,"['https://cryptokombat.com', 'https://vote.cryptokombat.com/#/']",70
+2689,2114,Rublix,0,['https://rublix.io/'],90
+2754,2124,HeroNode,0,['https://heronode.io/'],-1
+2421,2126,VouchForMe,1,['https://vouchforme.co/'],95
+3754,2128,EveryCoin ,1,['https://www.everycoin.io'],65
+3597,2132,InterValue,0,['http://www.inve.one/'],-1
+1562,2138,Swarm City,1,['http://swarm.city/'],95
+3738,2139,Decentralized Crypto Token,1,['https://www.dctoproject.org/'],60
+3297,2144,Gene Source Code Chain,1,['http://www.gscchain.org/'],85
+2464,2146,Devery,1,['https://devery.io/'],75
+3869,2147,Alpha Token,0,['https://www.alphaplatform.co '],85
+2720,2149,Parkgene,1,['https://parkgene.io/'],90
+4737,2150,ITO Utility Token,1,['http://ito.network/'],1
+3469,2152,TrueDeck,1,['https://truedeck.io/'],0
+5304,2154,MorCrypto Coin,1,['https://morcrypto-exchange.com'],1
+3171,2157,HeartBout,1,['https://heartbout.com/'],100
+2972,2158,ZPER,1,['Https://zper.io'],-1
+7698,2161,CorionX,1,['https://corion.io/corionx/'],95
+1969,2164,Sociall,0,['https://sociall.io'],100
+10101,2166,Kwikswap Protocol,1,['https://home.kwikswap.org'],28
+3429,2169,Cyber Movie Chain,0,['https://cybermoviechain.io/'],60
+1985,2178,Chronologic,1,['https://chronologic.network/'],90
+217,2183,Bela,1,['http://livebela.com/'],85
+5288,2184,Bidesk,1,['https://www.bidesk.com'],80
+3095,2187,Niobium Coin,1,"['https://niobiumcoin.io/', 'https://www.bomesp.org/']",90
+6116,2189,megaBONK,1,['https://www.megabonk.com/'],40
+3315,2191,Playgroundz,1,['https://www.playgroundz.io/'],85
+4452,2192,BidiPass,1,['https://bidipass.org/'],15
+6862,2198,Boosted Finance,1,['https://boosted.finance/'],80
+2064,2199,Maecenas,1,['http://www.maecenas.co/'],95
+2899,2200,Thrive Token,1,['https://ico.thrivelabs.io/'],70
+2006,2203,Cobinhood,1,['https://www.cobinhood.com/'],1
+4193,2204,Dynamite,1,['https://www.dynft.io/'],25
+3247,2206,Fire Lotto,1,['https://firelotto.io/'],1
+3931,2210,Elementeum,1,['https://www.etherlegends.com'],71
+6566,2214,Meridian Network,1,['https://meridian-network.co/'],15
+2452,2216,Tokenbox,1,['https://tokenbox.io/'],100
+2249,2218,Eroscoin,1,['https://eroscoin.org/'],95
+3101,2220,OptiToken,1,['https://optitoken.io'],95
+2286,2225,MicroMoney,1,['https://www.micromoney.io/'],100
+5397,2233,Castweet,0,"['http://www.castweet.com', 'http://www.castjam.tv']",100
+4071,2234,Ubricoin,0,['https://ubricoin.ubrica.com/'],-1
+2836,2240,Bigbom,1,['https://bigbom.com'],100
+2704,2248,Transcodium,1,['https://transcodium.com/'],30
+1931,2251,Opus,1,['http://opus-foundation.org/'],100
+3499,2265,Liquidity Network,1,['https://liquidity.network/'],100
+1873,2266,Blocktix,1,['https://blocktix.io/'],80
+5840,2276,Insight Protocol,0,['https://inxprotocol.io/en'],85
+5910,2281,Fesschain,1,['https://fesschain.live/'],65
+8445,2292,SharedStake,1,"['https://www.sharedstake.org/', 'https://sips.sharedstake.org/']",25
+2898,2293,GoNetwork,1,['https://gonetwork.co/index.html'],85
+3895,2298,Matrexcoin,1,"['https://matrexcoin.com/', 'https://matrexcoin.com/news/update-minds-our-partner?en']",55
+4284,2299,DABANKING,0,['https://dabanking.io/'],54
+2244,2308,Payfair,1,['https://payfair.io/'],1
+4589,2312,Cipher,1,"['https://ciphercryptotech.org/', 'https://ciphercpr.com']",70
+3980,2316,TCASH,1,['https://www.etherflyer.com/index.html'],70
+7520,2328,SynLev,0,['https://www.synlev.com'],80
+2269,2329,WandX,1,['https://www.wandx.co/'],95
+3610,2335,Micromines,1,['https://micromines.co/'],-1
+3856,2342,SF Capital,1,['https://www.sfcapital.io/'],45
+2902,2348,POPCHAIN,1,['https://popchain.co'],80
+2184,2356,Privatix,1,['https://privatix.io/'],80
+5816,2360,Rewardiqa,1,['https://rewardiqa.com/'],50
+3433,2361,EUNOMIA,0,['https://ent.zone'],100
+2745,2362,Joint Ventures,1,['https://jointventures.io'],55
+3271,2368,Ether Kingdoms Token,1,['https://imps.me'],30
+2147,2369,ELTCOIN,1,['https://www.eltcoin.tech/'],70
+2729,2376,TEAM (TokenStars),1,"['https://tokenstars.com/', 'https://tokenstars.com/team']",40
+3112,2379,Bitnation,1,['https://bitnation.co'],35
+3805,2390,BoatPilot Token,1,['https://boatpilot.io'],70
+2929,2391,Truegame,1,['https://ico.truegame.io/'],55
+3027,2400,Webcoin,0,"['https://webcoin.today', 'https://webhits.io']",100
+3261,2403,EvenCoin,0,['https://www.evencoin.io'],100
+3770,2407,CustomContractNetwork,1,['https://customcontract.network'],-1
+3889,2408,Natmin Pure Escrow,1,['https://www.natmin.io/'],80
+4076,2411,ETHplode,0,['https://ethplode.org/'],25
+5019,2416,Global Crypto Alliance,1,"['https://gcalliance.io/', 'https://globalcryptonews.io/']",80
+2755,2430,Raise,1,"['https://raise.it', 'https://raise.it/blog/important-news-regarding-hero-tokens']",90
+4775,2437,Bancacy,1,['https://www.bancacy.com/'],60
+2977,2441,BitRewards,1,['https://bitrewards.network/'],85
+3780,2442,Sparkle Loyalty,1,['https://sparkleloyalty.io/'],60
+3255,2449,CyberMusic,1,['https://cybermusic.io'],55
+3097,2455,XOVBank,1,['http://www.xov.io/'],60
+3777,2458,Spectrum,1,['https://spectrum-token.com'],70
+3131,2460,Thingschain,0,['https://thingschain.network/'],60
+3317,2462,Cryptrust,0,['https://cryptrust.io'],-1
+3644,2464,TravelNote,0,['https://ico.travelnote.io'],-1
+3685,2469,BTC Lite,0,['http://btclite.org/'],65
+3649,2471,Plus-Coin,0,['https://www.plus-coin.com/en/'],65
+7504,2472,WeBlock,1,['https://www.weblock.vip/'],1
+3792,2474,ARAW,0,['https://arawtoken.io'],90
+3414,2483,ZeusNetwork,1,['https://zeusfundme.com'],75
+2883,2486,ZINC,1,['https://zinc.work/'],100
+7467,2490,Swirge,1,['https://swirgepay.com/'],1
+4518,2495,Abitshadow Token,1,['http://abitshadow.com'],25
+3760,2506,Scanetchain,1,['https://www.scanetchain.io/'],60
+2960,2512,Tourist Token,1,['https://globaltourist.io/'],25
+3209,2515,4NEW,0,['https://4new.io/'],60
+8304,2516,Rigel Finance,1,"['https://rigel.finance', 'https://app.rigel.finance']",75
+3645,2521,Shivers,0,['http://shivers.io'],-1
+2103,2524,Intelligent Trading Foundation,1,['http://intelligenttrading.org/'],90
+5703,2525,Neuromorphic.io,1,['https://neuromorphic.io'],95
+3615,2526,HyperQuant,1,['https://hyperquant.net'],100
+4885,2527,Diligence,1,['https://ira-africa.com/'],24
+3086,2529,Kora Network Token,0,['https://kora.network/'],80
+3454,2533,Decentralized Asset Trading Platform,1,['https://datp.market/'],70
+5272,2539,Okschain,0,['https://okschain.com/en'],76
+3446,2541,Zenswap Network Token,0,['https://www.zenswapnetwork.info'],29
+4307,2546,UNICORN Token,1,['https://unicorn.cm/'],100
+3265,2553,Havy,1,['https://havy.io'],80
+6179,2556,SeChain,1,['https://sechain.finance/'],30
+2990,2566,EXMR FDN,1,"['https://exmr.foundation', 'http://www.exmrcoin.com/']",60
+4881,2569,Guider,1,['https://bit.ly/2Na3S1d'],100
+2256,2570,Bonpay,1,['https://bonpay.com/'],100
+3162,2575,YoloCash,1,['https://www.yolocash.co/'],90
+3121,2579,IGToken,1,['http://igtoken.net/'],45
+4682,2583,Hyper Speed Network,1,['https://www.hsn.link/'],45
+3223,2592,DOWCOIN,1,['https://www.dowcoin.io/'],45
+3932,2593,Connect Coin,0,['https://connectingcoin.io/'],100
+2923,2594,XMCT,0,['http://xmedchain.com/'],-1
+3585,2598,WeShow Token,0,['https://www.we.show/'],-1
+3746,2599,Electrum Dark,0,"['https://electrumdark.com', 'https://electrumdark.co']",54
+3222,2602,Bionic,1,['https://bionic-coin.io/'],65
+2100,2605,JavaScript Token,1,['http://jschain.io/'],90
+3512,2609,Alpha Coin,1,['https://alpha-coin.io'],85
+3807,2611,LitecoinToken,0,"['https://ltk.community', 'https://t.me/LTK_communityChannel']",85
+5778,2618,ETHPlus,0,"['https://ethplus.net', 'https://dapp5.ethplus.net']",91
+3730,2624,The Currency Analytics,1,['https://thecurrencyanalytics.com/tcat-token/'],100
+3287,2631,Abulaba,1,['https://abulaba.co/'],80
+3232,2632,Staker,0,['https://staker.network/'],-1
+3460,2634,Bitcoinus,1,"['https://www.bitcoinus.com/', 'https://www.bitcoinus.com/our-token/']",100
+3580,2638,Crystal Token,1,['https://www.crystaltoken.co'],65
+8698,2642,Ruler Protocol,1,['https://rulerprotocol.com/'],20
+3690,2649,Bulleon,1,['https://bulleon.io/'],100
+3727,2652,Flowchain,1,['https://flowchain.co/'],100
+5797,2653,HEIDI,1,"['https://www.heidicoin.ch', 'https://www.winston-graf.ch']",95
+2367,2654,Aigang,0,['https://aigang.network/'],-1
+6769,2658,Money Plant Token,1,['https://moneyplanttoken.io/'],20
+3427,2662,Agrolot,1,['https://agrolot.io/'],65
+5265,2666,Compound USD Coin,1,['https://compound.finance/'],100
+5263,2668,Compound Dai,1,['https://compound.finance/'],100
+9160,2669,Linkflow Finance,1,['https://www.linkflow.finance/'],95
+5739,2676,Amun Ether 3x Daily Long,1,"['https://amun.com/', 'https://tokens.amun.com']",95
+11178,2679,Wrapped LUNA Token,1,['https://terra.money/'],95
+7855,2682,Gold Coin Reserve,1,['https://www.goldcoinreserve.io/'],55
+11423,2686,vEmpire DDAO,1,['https://v-empire.digital'],80
+8368,2693,Xeno Token,1,['https://xno.live/'],85
+10293,2695,Swarm,1,['https://www.ethswarm.org/'],90
+5738,2708,Amun Ether 3x Daily Short,1,"['https://amun.com/', 'https://tokens.amun.com']",100
+8136,2709,WAXE,1,['https://wax.io/'],100
+7055,2711,DeFi Pulse Index,1,['https://www.tokensets.com/portfolio/dpi'],100
+9588,2713,O3Swap,0,['https://o3swap.com/swap'],80
+6944,2717,MilliMeter,1,['http://idnd.io'],70
+10368,2721,Cryptex Finance,1,['https://cryptex.finance/'],75
+9263,2724,Unizen,1,['https://unizen.io'],55
+11222,2734,Wrapped NCG,1,['https://nine-chronicles.com/'],100
+9131,2737,Alchemist,1,['https://alchemist.farm/'],70
+7296,2738,Truebit,1,['http://www.truebit.io/'],85
+10272,2742,AladdinDAO,1,['https://aladdin.club/'],10
+5736,2763,Amun Bitcoin 3x Daily Long,1,"['https://amun.com/', 'https://tokens.amun.com']",100
+4441,2769,Vectorspace AI,1,['https://vectorspace.ai'],100
+10347,2776,Human,1,['https://www.humanprotocol.org/'],100
+7404,2787,Value Liquidity,1,"['https://valuedefi.io/', 'https://bsc.valuedefi.io/#/']",40
+11338,2794,Block Commerce Protocol,1,['https://bcprotocol.io'],93
+9089,2796,Tenset,1,['https://tenset.io'],55
+10291,2808,Convex CRV,1,['https://www.convexfinance.com/'],80
+5737,2811,Amun Bitcoin 3x Daily Short,1,"['https://amun.com/', 'https://tokens.amun.com']",100
+8720,2844,Inverse Finance,1,['https://inverse.finance/'],65
+5956,2851,MCDEX,1,['https://mcdex.io/'],100
+7705,2853,ANIVERSE,1,['https://aniverse.io/'],90
+8611,2871,VKENAF,1,['https://vkenaf.com'],75
+10740,2883,Liti Capital,1,['https://www.liticapital.com'],85
+11392,2895,Moon Rabbit,1,['https://moonrabbit.com/'],100
+8167,2898,Wise Token,1,['https://wisetoken.net'],85
+10182,2901,Manifold Finance,1,['https://manifoldfinance.com'],55
+8044,2911,Adappter Token,1,['https://adappter.io/eng.html'],65
+9073,2919,Popsicle Finance,1,"['https://popsicle.finance/', 'https://frapped.io/']",65
+9441,2924,Jigstack,1,['https://jigstack.org/'],60
+11061,2929,Multiverse,1,['https://multiverse.ai/'],75
+8662,2932,Starter,1,['https://starter.xyz/'],88
+9043,2943,Stone DeFi,1,['https://www.stonedefi.io/'],35
+11218,2948,BoringDAO,1,['https://www.boringdao.com/'],70
+11216,2950,Boost Coin,1,['https://boostco.in/'],25
+8479,2951,VAIOT,1,['https://www.vaiot.ai/'],85
+7583,2967,Auric Network,1,['https://auric.network/'],50
+8397,2968,FEG Token,1,['https://fegtoken.com'],1
+9120,2991,Franklin,1,"['https://tokenfly.co/', 'https://bo.market/']",35
+8549,2992,Polkacity,1,['https://polkacity.io'],55
+8398,3002,YFIONE,1,['https://yfione.org/'],60
+9026,3007,Blind Boxes,1,['https://blindboxes.io'],70
+7687,3010,Folder Protocol,1,['https://www.folderlabs.io/'],60
+7740,3026,Polaris Share,1,"['https://polarishare.io', 'https://polarishare.com']",40
+8476,3031,Premia,1,['https://premia.finance'],80
+8176,3032,Firdaos,1,"['https://firdaos.com', 'https://www.zelaapay.ae']",75
+8711,3059,Pando,1,['https://pandobrowser.com/'],70
+6668,3067,PROXI,1,['https://proxidefi.com/'],95
+9170,3070,Visor.Finance,1,['https://www.visor.finance/'],55
+11332,3071,Storage Area Network Anywhere,1,['https://www.ethsana.org'],100
+10593,3072,Flurry Finance,1,['https://flurry.finance/'],70
+4571,3078,HEdpAY,1,['https://hedpay.com'],75
+9996,3083,Bezoge Earth,1,['https://www.bezoge.com'],25
+9458,3095,Hokkaidu Inu,1,['https://hokk.finance/'],75
+5450,3098,WiBX,1,['https://www.wibx.io/'],85
+10820,3102,Yieldly,1,['https://yieldly.finance/'],70
+4067,3117,Cryptoindex.com 100,1,"['https://cryptoindex.com', 'https://cix100.com']",40
+11208,3118,SumSwap,1,"['https://www.sumswap.org/', 'https://app.sumswap.org/']",100
+10979,3119,Universe.XYZ,1,['https://universe.xyz/'],25
+10381,3141,Zild Finance,0,['https://zild.finance/'],25
+8623,3153,BSB Token,0,"['http://bsbt2021.com/', 'https://bitstoragebox.com/']",95
+9920,3160,RUSH COIN,1,"['http://rushcoin.io/', 'https://www.nftmania.io/']",65
+7276,3166,Kirobo,1,['https://kirobo.io'],65
+7249,3170,Yearn Finance Passive Income,1,['https://yfpi.finance/'],95
+8675,3173,Minds,1,"['https://minds.com', 'https://minds.com/token']",100
+8997,3178,Cook Protocol,1,['https://www.cook.finance/'],100
+10998,3180,Wild Credit,1,['https://wild.credit/'],75
+7381,3186,CoFiX,1,"['https://cofix.tech/', 'https://docs.cofix.io/']",35
+8558,3192,BT.Finance,1,['https://bt.finance/'],85
+9070,3198,CFX Quantum,1,"['https://token.cfxquantum.com/', 'https://wallet.cfxquantum.com/']",85
+11498,3203,Chainbing,1,['https://www.chainbing.io/#/'],75
+8411,3209,Marginswap,1,['https://marginswap.finance/'],60
+8377,3210,SportX,1,['http://sportx.bet/'],60
+10260,3211,Thorstarter,1,['https://thorstarter.org'],45
+11668,3215,Zcon Protocol,1,['http://zcon-creative.io/'],40
+9719,3220,Woofy,1,['https://woofy.finance/'],100
+9998,3225,Unicly,1,['https://unic.ly/'],69
+8430,3226,DEFI Top 5 Tokens Index,1,['http://www.indexed.finance/'],80
+10501,3235,BaconDAO,1,"['https://bacondao.com', 'https://discord.gg/bacon']",50
+8545,3241,Launchpool,1,['https://launchpool.xyz/'],70
+6607,3242,MixTrust,1,['https://www.mixtrust.exchange/'],100
+5334,3249,RAKUN,1,['https://rakunworld.com/'],85
+2091,3250,Exchange Union,1,['https://www.exchangeunion.com/'],90
+11675,3257,Dope Wars Paper,1,['http://wiki.dopedao.org/'],-1
+10692,3259,Aidi Finance,1,['https://www.aidiinu.finance'],85
+9364,3267,Unlock Protocol,1,"['https://unlock-protocol.com/', 'https://docs.unlock-protocol.com/']",95
+9861,3271,Float Protocol: Float,1,['https://floatprotocol.com'],70
+8769,3282,MeetPle,1,['https://meetple.io/'],55
+10394,3284,Kuma Inu,1,['https://kumatoken.com'],30
+5490,3297,Lux Bio Cell,1,['http://www.lbxc.io'],75
+4190,3298,Multicoin,1,['https://www.mom.market/'],65
+7593,3299,DefiDollar DAO,1,['https://app.dusd.finance/'],60
+7593,3299,DefiDollar DAO,1,['https://app.dusd.finance/'],60
+4105,3306,CoinMetro Token,1,"['https://coinmetro.com/', 'https://t.me/coinmetroupdates']",100
+6705,3311,Lien,1,['https://lien.finance'],70
+7593,3313,DefiDollar DAO,1,['https://app.dusd.finance/'],60
+7593,3313,DefiDollar DAO,1,['https://app.dusd.finance/'],60
+7816,3319,Basis Share,1,['https://basis.cash/'],75
+8113,3321,CryptoBank,1,['http://www.cryptobank.ventures/eng/index.html'],95
+10033,3322,NFTMart Token,1,['https://www.nftmart.io/'],50
+5881,3326,Balloon-X,1,['http://www.balloon-x.com/'],70
+5800,3328,Treecle,1,['https://www.treecle.io/'],100
+10526,3336,TribeOne,1,['https://www.tribeone.io/'],70
+11643,3337,EcoFi,1,"['https://ecofi.io/', 'https://hyp.eco/']",55
+7510,3346,QuiverX,0,,-2
+11277,3348,MaidCoin,1,['https://maidcoin.org'],30
+9126,3349,Wrapped ECOMI,1,['https://www.ecomi.com/'],100
+9056,3362,Rebasing Liquidity,1,['https://delta.financial/'],75
+6914,3366,junca Cash,0,['https://junca-cash.world/'],80
+8282,3374,Koinos,1,['https://koinos.io'],55
+5993,3377,Lung Protocol,1,['https://lungprotocol.info/'],84
+8003,3378,Mirrored Google,1,['https://mirror.finance/'],95
+6393,3380,Bytus,1,['http://bytus.io'],80
+9580,3381,Evolution Finance,1,['https://www.evolution.finance/'],85
+10984,3385,Witch Token,0,,-2
+8835,3387,xMARK,1,['https://benchmarkprotocol.finance/'],30
+7988,3399,Zugacoin,1,"['http://zugacoin.io', 'http://samzugacoin.com']",45
+6911,3401,BNSD Finance,1,"['https://bns.finance/', 'https://bitbns.com/bns/']",40
+6628,3402,Meter Governance mapped by Meter.io,1,['https://www.meter.io/'],40
+11301,3403,YEL.Finance,1,['https://yel.finance'],25
+8084,3405,nHBTC,1,['https://nestprotocol.org/'],100
+9062,3409,LinkPool,1,"['https://linkpool.io/', 'https://app.linkpool.io/pools']",85
+8337,3413,Secret (ERC20),1,['https://scrt.network'],100
+10844,3417,Zerogoki,1,"['https://zerogoki.org/', 'https://zerogoki.finance']",25
+6851,3418,GrafSound,1,['http://mygrafsound.com/'],61
+11043,3423,Gambler Shiba,1,['https://gamblershiba.finance/'],60
+7977,3427,Unit Protocol Duck,1,['https://unit.xyz/'],65
+10391,3428,Creator Platform,1,['https://www.creatorchain.network'],30
+9662,3432,ShieldEX,1,['http://www.shieldex.io/#/home'],70
+6715,3440,Sperax,1,['https://sperax.io/'],100
+10420,3446,UCoin,1,"['https://ucoincurrency.io/', 'http://ubisplatform.com/']",1
+9153,3453,Interest Bearing Defi Pulse Index,1,['https://basketdao.org/baskets/BDPI'],40
+6405,3465,MiniSwap,1,['https://www.miniswap.org'],100
+7755,3473,Handy,1,['https://handypick.io/'],75
+8887,3474,Cryptocurrency Top 10 Tokens Index,1,['https://indexed.finance'],80
+6621,3477,Keysians Network,1,['https://keysians.com/'],45
+10469,3480,iMe Lab,1,['https://imem.app/'],90
+5445,3487,LBK,1,"['https://www.lbank.info/', 'https://www.lbank.me/']",100
+11074,3492,1-UP,1,['https://1-up.fun/'],70
+11126,3497,Hypersign identity,1,['https://hypersign.id/'],80
+9027,3501,Uhive,1,['https://www.uhive.com/'],95
+9651,3504,Ethermon,1,['https://www.ethermon.io/'],100
+8243,3505,Passive Income,1,['https://www.passive-income.io'],65
+10898,3507,Wrapped Centrifuge,1,"['https://centrifuge.io/', 'https://tinlake.centrifuge.io/']",100
+9455,3510,Lemond,1,['https://www.lemond.money/'],70
+8789,3512,EDDASwap,1,['https://eddaswap.com/'],45
+5648,3526,BlockNoteX,1,['https://blocknote.gold/eng/bnox'],65
+4678,3529,Global Digital Content,1,['http://gdctoken.io/'],55
+8298,3530,Paralink Network,1,['https://paralink.network/'],90
+7425,3536,PayAccept,1,['https://www.payaccept.net'],70
+3885,3542,WPP TOKEN,1,['http://wppenergy.io'],85
+9805,3543,Evai.io,1,['https://www.evai.io/'],75
+7581,3545,Goldblock,0,['https://goldblockeng.imweb.me/'],-1
+8071,3547,OnX Finance,1,['https://onx.finance'],25
+7618,3549,Alpaca City,1,['https://alpaca.city'],20
+7997,3551,renFIL,1,['https://renproject.io/'],65
+8599,3554,xToken,1,['https://xtoken.market/'],95
+11740,3556,DeFIL,1,['https://defil.org/'],45
+5656,3564,1x Short Bitcoin Token,1,['https://ftx.com/tokens/HEDGE'],100
+8946,3565,Habitat,1,['https://0xhabitat.org'],36
+8501,3572,Luxurious Pro Network Token,1,['https://www.lpntoken.io/'],51
+8904,3574,renZEC,1,['https://renproject.io/'],65
+7346,3576,Kauri,1,['https://kauricrypto.com'],60
+10854,3579,Railgun,1,['https://railgun.ch/'],85
+2713,3580,KEY,1,['https://www.bihu.com/'],100
+5486,3584,Jack Token,1,['https://jackr.io/'],80
+6218,3590,Arcona,1,['https://www.arcona.io/index.html'],70
+10713,3601,Burp,1,['https://about.coinburp.com'],90
+8699,3610,DEGEN Index,1,['https://indexed.finance/'],80
+8669,3614,Sovryn,1,"['https://sovryn.app/', 'https://live.sovryn.app/']",50
+10166,3620,AstroElon,1,['https://astroelon.net'],45
+8188,3627,MoneySwap,1,['https://www.moneyswap.io/'],10
+5251,3634,LinkArt,1,['http://linkart.io/'],80
+8189,3635,Shabu Shabu Finance,1,['https://shabushabu.finance'],-1
+9766,3639,Rentible,1,['https://rentible.io'],1
+5330,3652,Shardus,1,['https://shardus.com/'],100
+10674,3653,Synapse Network,1,['https://synapse.network/'],100
+7723,3654,Itchiro Games,0,['https://itchiro.com/'],-1
+8389,3656,BambooDeFi,1,['https://www.bamboodefi.com/'],70
+10775,3667,Locklet,1,"['https://www.locklet.finance', 'https://docs.locklet.finance']",20
+10680,3668,Koji,1,['https://koji.earth/'],65
+10266,3674,Direwolf,1,"['https://direwolftoken.com', 'https://www.buydirewolf.com/']",55
+8159,3682,One Cash,1,['https://onecash.finance/'],75
+5530,3684,REBIT,1,['https://rebitai.com'],70
+11522,3687,Jenny Metaverse DAO Token,1,['https://jennynft.io'],65
+9698,3689,Tycoon,1,['https://tycoon.io'],100
+7454,3691,ETG Finance,1,['https://etgproject.org'],25
+9171,3703,AMPnet Asset Platform and Exchange,1,"['https://ampnet.io', 'https://ampnet.io/apx']",100
+8227,3712,Connect Financial,1,['https://www.connect.financial'],85
+8645,3715,Oiler Network,1,['https://www.oiler.network/'],100
+8252,3717,pBTC35A,1,['https://mars.poolin.fi/#/'],65
+7796,3719,COIN,1,['https://coindefi.org/'],35
+11676,3724,Varen,1,['https://varen.finance/'],60
+5765,3728,sETH,1,['https://www.synthetix.io/'],100
+2287,3743,LockTrip,1,['https://locktrip.com/'],100
+8993,3747,SafeBitcoin,1,['https://www.safebitcoin.io/'],5
+11333,3750,BankEth,1,['http://banketh.finance'],65
+9856,3753,Knit Finance,1,['https://knit.finance/'],35
+4946,3767,Vinci,0,['https://vinci.id/index.html'],100
+2741,3772,Intelligent Investment Chain,1,['http://www.iichain.io/'],55
+7908,3777,Guarded Ether,1,['https://guarda.com/'],100
+7641,3778,Medicalveda,1,['https://medicalveda.com/'],50
+7864,3781,DGPayment,1,"['https://dgpaytech.com/', 'http://dgpwallet.com']",66
+6956,3783,BUILD Finance,1,"['https://build.finance', 'https://letsbuild.finance']",1
+8393,3787,Zytara dollar,1,"['https://zytara.capital/', 'https://zytara.com/']",45
+5792,3790,Bananatok,1,"['https://bananatok.io', 'https://bananatok.com']",85
+10832,3791,Etherlite,1,['https://etherlite.org'],65
+8678,3795,EHash,1,['https://ehash.co'],25
+5809,3800,Cap,1,"['http://cap.eth.link/', 'https://cap.finance']",100
+10431,3806,Future Of Finance Fund,1,['https://indexed.finance'],80
+8930,3808,Ethbox,1,['https://www.ethbox.org/'],50
+8074,3811,Basis Dollar,0,['https://basisdollar.fi/'],55
+9498,3814,EnreachDAO,1,['https://enreach.io'],85
+8316,3817,XUSD Stable,1,['https://xusd.money'],100
+6684,3821,Dextoken,0,['https://flowchain.co/dextoken.html'],100
+9272,3826,Munch Token,1,['https://munchproject.io/'],35
+11405,3827,Bored Museum,1,['https://www.borednft.io/'],90
+7400,3828,YFi Management,0,['https://yfi.management'],65
+6243,3832,DeFiPie,1,['https://defipie.com/'],60
+6852,3836,Akropolis Delphi,1,['https://delphi.akropolis.io/'],95
+3761,3845,DISCIPLINA,1,['https://disciplina.io'],55
+8388,3846,REDi,1,['https://redi.io/en'],51
+10952,3847,The People's Coin,1,['https://www.thepeoplescoin.money'],20
+11653,3851,Bond Appetite USD,1,['https://bondappetit.io/'],60
+9694,3852,Upfire,1,['https://www.upfire.com'],75
+11148,3867,Proxy,1,['https://btcpx.io/'],75
+5920,3873,AICON,0,,-2
+8160,3874,One Share,1,['https://onecash.finance/'],75
+9420,3881,SwapDEX,1,['https://swapdex.net/'],65
+5986,3886,Liquidity Dividends Protocol,0,['https://www.lid.sh'],-1
+11337,3897,OS,1,['http://ethereansos.eth.link/'],100
+8014,3911,FNK wallet,1,['https://fnk.com/'],100
+10990,3915,DAppNode,1,['https://dappnode.io/'],80
+7697,3946,Experty Wisdom Token,1,['https://experty.io/en'],100
+9016,3955,DAOhaus,1,['https://daohaus.club/'],85
+9322,3970,BondApp챕tit Governance Token,1,['https://bondappetit.io/governance'],60
+10262,3974,KleeKai,1,['https://klee.finance/'],70
+8548,3975,Aloha,1,['https://alohadefi.io/'],80
+8237,3988,Basis Dollar Share,0,['https://basisdollar.fi/'],55
+5915,3991,Bone,1,"['https://mydogdata.com/', 'https://dogdata.io/']",45
+8135,3996,Cryptokek,1,"['https://cryptokek.com/', 'https://app.cryptokek.com/']",80
+5934,4006,Hey Bitcoin,0,['https://www.heybitcoin.io/'],60
+10831,4010,Parallel Protocol,1,['https://mimo.capital/'],35
+8893,4011,Cream ETH 2,1,['https://cream.finance/'],100
+8117,4016,Dymmax,1,['https://dymmax.com/'],60
+3252,4024,ShineChain,0,,-2
+8302,4025,QFinance,1,['https://qfihub.com'],35
+9639,4028,Pussy Financial,1,['https://pussy.financial/'],60
+10900,4033,Hachiko Inu,1,['https://app.hachikoinu.org/'],30
+7832,4039,REALPAY,1,['https://www.realmarket.app/'],45
+11272,4047,Wrapped Arweave,1,"['https://everpay.io', 'https://everpay.io/deposit']",25
+9626,4048,Emblem,1,['https://overline.network'],65
+8832,4056,AlgoVest,1,['https://algovest.fi/'],65
+9298,4058,Dogira,1,['https://dogira.net'],30
+8121,4059,Themis,1,['https://themisoracle.com/#/'],75
+7751,4060,KP2R.Network,0,"['https://kp2r.network/', 'https://feed.kp2r.network/']",55
+11786,4076,DAO.vc,1,['https://dao.vc'],35
+4112,4083,Eco Value Coin,1,['https://www.ecovaluecoin.com/'],74
+7875,4085,MM Token,1,['https://mushrooms.finance/'],50
+3683,4090,AEN Smart Token,1,"['https://www.aencoin.com', 'https://medium.com/@aencoin']",70
+8079,4093,Dexfin,1,['https://dexfin.com/en'],80
+10736,4094,Kelpie Inu,1,['https://kelpie.tech'],100
+2349,4103,Mixin,1,['https://mixin.one/'],100
+11694,4111,Intelligent Mining,1,['https://im.farm/'],1
+8045,4119,APY Vision,1,['https://apy.vision'],30
+9505,4131,Lever Token,1,['https://lever.network/'],45
+5989,4133,BNS Token,1,['https://bitbns.com/bns/'],41
+7690,4146,Your Finance Decentralized,1,['https://yfd.io/'],75
+3707,4148,T.OS,1,['http://www.tosblock.com'],100
+8248,4156,DEUS Finance DEA,1,['https://deus.finance/home'],60
+3417,4159,Future1coin,1,['https://future1coin.com/'],65
+5434,4170,pTokens BTC,1,"['https://ptokens.io', 'https://p.network']",95
+7721,4171,Chemix Ecology Governance Token,1,"['https://chemix.io/home', 'https://pad.chemix.io/']",45
+2950,4172,LemoChain,1,['https://www.lemochain.com/#/'],85
+7949,4176,Interfinex,1,['https://interfinex.io'],50
+10686,4178,Evanesco Network,1,['https://www.evanesco.org'],90
+10035,4190,Teslafan,1,['https://teslafan.io/'],55
+8585,4199,Mirrored Facebook Inc,1,"['https://mirror.finance/', 'https://terra.mirror.finance']",95
+7020,4204,Nyan Finance,1,['https://nyan.finance/'],90
+7145,4206,Defi Shopping Stake,1,['https://defi.uquid.com/'],80
+11642,4207,Safe Shield,1,['https://safesolidity.com'],55
+3903,4209,Fanfare,1,['https://tokensale.fanfare.global'],65
+11193,4216,Bright Union,1,['https://brightunion.io/'],45
+11153,4228,EmiSwap,1,"['https://emiswap.com/#/swap', 'https://about.emiswap.com/']",45
+8405,4231,Butterfly Protocol,1,['https://www.butterflyprotocol.io/'],100
+5480,4232,Bali Coin,1,['https://balicoin.io'],90
+10279,4234,Less Network,1,['https://less.xyz'],65
+6714,4238,Libfx,1,['https://libermx.com/'],1
+11716,4242,WhaleStreet $hrimp Token,1,['https://whalestreet.xyz/'],50
+5914,4243,intexcoin,1,"['https://intexcoin.io', 'https://intexcharity.org']",70
+3741,4247,EurocoinToken,1,['https://eurocoinpay.io/'],68
+9490,4248,Ara Blocks,1,['https://ara.one'],60
+9057,4256,VYNK CHAIN,1,"['https://vynkchain.org', 'https://vynksafe.com']",55
+10331,4261,Safeswap Governance Token,1,['https://www.yfdai.finance'],40
+8926,4287,A2DAO,1,['https://a2dao.com/'],80
+9713,4295,Demodyfi,1,['https://www.demodyfi.com'],53
+4802,4299,Xeonbit Token,1,['https://xeonbit.com/'],48
+10970,4302,BabyDoge ETH,1,['https://babydogecoin.gg'],100
+7907,4304,VersoView,1,['https://versoview.com'],50
+7992,4309,Ludena Protocol,1,['https://www.ludenaprotocol.io'],70
+7217,4310,Morpher,1,['https://www.morpher.com/'],100
+8994,4312,Delta,1,['https://delta.financial/'],75
+10228,4323,Omlira,1,"['https://omlira.com/en', 'https://links.omlira.com/']",50
+8665,4326,Parallel,1,['https://mimo.capital'],35
+4098,4330,Tapcoin,0,['https://www.tapproject.net/'],40
+2318,4332,Neumark,1,['http://neufund.org/'],80
+10759,4339,DeversiFi,1,['https://www.deversifi.com/'],100
+7621,4345,VROOMGO,1,"['http://vroomgo.com', 'http://delmotechnology.com']",55
+6541,4350,Relevant,1,['https://relevant.community/'],100
+8515,4357,DEVA TOKEN,1,['https://devatoken.com/'],1
+8358,4369,Potentiam,1,['https://www.potentiam.io'],100
+8313,4372,Recharge Finance,1,"['https://recharge.finance/', 'https://medium.com/r3fi']",35
+10873,4375,DOOR,1,['https://doortoken.org'],100
+5508,4376,Algory Project,1,"['http://algory.io/', 'https://app.algory.io/']",100
+6118,4379,BitoPro Exchange Token,1,"['https://www.bitopro.com/bito_coin', 'https://bito.bitopro.com']",100
+8532,4380,Hyper Credit Network,1,['https://hypercreditnetwork.info/'],2
+9551,4395,Digible,1,['https://digible.io'],40
+5924,4397,Pantos,1,['https://pantos.io/'],100
+9077,4398,WasabiX,1,['https://wasabix.finance/'],100
+7761,4405,BuildUp,1,['https://gomoneda.com/'],70
+7620,4406,Trade.win,1,['https://trade.win'],92
+4971,4411,NairaX,1,['https://www.nirxblock.com'],45
+8390,4417,Strudel Finance,1,['https://strudel.finance/'],50
+6761,4418,ReFork,1,['https://refork.org'],85
+8294,4426,Cometh,1,['https://www.cometh.io/'],80
+11507,4433,Stable UNI,1,['https://app.ichi.org/'],75
+9609,4436,CompliFi,1,['https://compli.fi/'],100
+8939,4437,Nimbus,1,['https://nimbusplatform.io/'],100
+7675,4445,Interest Bearing ETH,1,['https://alphafinance.io/'],50
+8949,4453,IFToken,0,"['https://iftoken.com', 'https://iftip.io']",95
+9423,4455,Phuture,1,['https://www.phuture.finance'],55
+11356,4460,Hashmasks,1,['https://nft20.io/asset/0xc2bde1a2fa26890c8e6acb10c91cc6d9c11f4a73'],60
+5987,4470,SIMBA Storage Token,1,['https://simba.storage/'],85
+5837,4481,DoDreamChain,1,['http://ir.dodream.io/'],95
+7286,4487,YFOX FINANCE,0,['https://yfox.finance/'],100
+8048,4488,Everyonescrypto,1,['https://everyonescrypto.com/'],85
+6463,4491,Prepayway,1,['https://prepayway.com/'],75
+8295,4505,CPUcoin,0,"['https://cpucoin.io', 'https://tweekit.io']",55
+11514,4507,Holographic Doge,1,['https://www.hodotoken.com/'],40
+10436,4512,Xiglute Coin,1,['https://xiglutecoin.io'],40
+8733,4519,BasketCoin,1,"['https://basketcoin.io', 'https://basketcoin.pl']",30
+9888,4523,Oviex,1,['https://oviex.com'],25
+8087,4524,FastSwap,1,['https://fastswap.exchange'],85
+4754,4529,INLOCK,1,['https://inlock.io/'],70
+11641,4533,KONG Land,1,"['https://kong.land', 'https://kong.cash']",90
+3791,4536,Jewel,1,['https://jewelpay.org/'],90
+9678,4542,Total Crypto Market Cap Token,1,['https://cryptex.finance'],75
+8557,4546,DexMex,1,['https://www.dexmex.trade/'],35
+2987,4549,ThingsOperatingSystem,0,,-2
+9066,4550,DCTDAO,1,"['https://dctdao.org/', 'https://dex.dctdao.org/']",15
+3888,4570,bitCEO,1,['https://www.bitceo.io/'],90
+7779,4579,XPToken.io,1,['https://info.xptoken.io/'],70
+3234,4586,Xriba,1,"['https://xriba.com/', 'https://www.xribapay.com/']",100
+8470,4587,SCV.finance Token,1,['https://scv.finance/'],80
+9519,4592,LabraCoin,1,['https://www.labracoin.org/'],75
+10145,4593,DeFinity,1,['https://definity.network/'],25
+5516,4594,LOA Protocol,1,['https://loaprotocol.io/'],60
+7788,4595,Yearn Loans Finance,1,['https://yloans.finance/'],55
+8275,4609,ISALCOIN,1,['https://www.isalcoin.com/'],1
+8464,4617,YFBitcoin,1,['https://www.yfbtc.net/'],40
+11011,4619,Projekt Diamond,1,['https://fairtokenproject.com'],15
+4872,4648,BenePit Protocol,0,"['https://benepit.io', 'https://benepit.com']",-1
+10646,4652,Night Life Crypto,1,"['https://nightlifecrypto.com', 'https://nlife.casino']",70
+8562,4653,McDonalds Coin,0,['http://www.mcdc.io/'],-1
+9930,4673,Tena [new],1,['https://tenaprotocol.io/'],95
+11722,4674,Cryptographic Ultra Money,1,['https://cumtoken.finance/'],45
+6764,4675,NTON,1,"['http://ntoncoin.com', 'http://nextphone.co.kr']",90
+8323,4676,PieDAO Balanced Crypto Pie,1,['https://pools.piedao.org/#/pie/0xe4f726adc8e89c6a6017f01eada77865db22da14'],35
+8441,4682,Cenfura Token,1,"['https://xcf-token.io/', 'https://cenfura.io/web/#/']",75
+9230,4684,Value Network,1,"['https://valuenetwork.live/', 'https://app.valuenetwork.live/']",65
+9532,4691,Impermax,1,['https://impermax.finance/'],50
+5165,4692,Freight Trust & Clearing Network,1,['https://freighttrust.com'],95
+7592,4702,Pepedex,1,['https://pepemon.world/'],80
+3996,4704,IOU,1,['https://iou.io'],90
+4100,4708,qiibee,1,['https://qiibee.com/'],100
+8641,4713,DeFi Wizard,1,['https://defiwizard.xyz/'],15
+11734,4715,Ledgity,1,['http://www.ledgity.com/'],95
+3849,4725,WHEN Token,0,['https://www.whenhub.com'],100
+9577,4731,Mycro,1,['https://mycrohunter.com/'],75
+6796,4743,DeFi of Thrones,1,['https://defiofthrones.io/'],55
+10314,4753,DragonBite,1,['https://www.dragonbite.io'],40
+7356,4755,Thirm Protocol,1,['https://thirm.com'],75
+9620,4757,Wrapped Statera,1,['https://stateratoken.com/'],85
+5955,4759,FME,1,['http://whitepaper.fmetoken.io'],100
+11628,4762,Rezerve,1,['https://rezerveoneth.com/home/'],50
+10044,4765,DeFi Factory Token,1,['https://defifactory.finance/'],55
+9820,4767,Metaverse NFT Index,1,['https://www.piedao.org/#/pie/0x33e18a092a93ff21ad04746c7da12e35d34dc7c4'],60
+7661,4772,GYSR,1,"['https://gysr.io', 'https://app.gysr.io']",30
+5108,4774,808TA,1,['https://808exchange.net/'],100
+11537,4784,GridZone,1,['https://gridzone.io/'],45
+7399,4796,Global Gaming,1,['https://globalgaming.io/'],85
+10632,4799,Nimbus Governance Token,1,['https://nimbusplatform.io/'],100
+7474,4807,Axia Protocol,0,['https://axiaprotocol.io'],35
+8169,4809,Polkainsure Finance,0,['https://polkainsure.finance/'],100
+3920,4812,Diamond Platform Token,1,['https://cdiamondcoin.com/'],28
+7979,4817,Meteorite.network,1,"['https://meteorite.network/', 'https://meteorbet.org/']",55
+9397,4831,Ethersocks,1,['https://ethersocks.io'],70
+8184,4834,Havens Nook,1,"['https://havensnook.com', 'https://havensnook.io']",80
+2247,4835,BlockCDN,0,['http://www.blockcdn.org/'],-1
+8447,4836,Wrapped ILCOIN,1,"['https://wilc.finance/', 'https://ilcoincrypto.com/']",65
+8125,4849,Unique One,1,['https://www.unique.one/'],40
+8230,4850,AI Network,1,"['https://ainetwork.ai', 'https://ainize.ai/explore']",90
+7623,4852,Libartysharetoken,1,['https://libartysharetoken.com'],61
+9217,4854,XFai,1,['https://www.xfai.com/index.html'],70
+5702,4866,MONNOS,1,['https://monnos.com/en/'],55
+9539,4869,UnitedCrowd,1,"['https://unitedcrowd.com', 'https://app.unitedcrowd.com']",75
+2631,4877,ODEM,1,['https://odem.io/'],90
+4192,4888,Populous XBRL Token,1,"['https://app.populous.world/', 'https://ropsten.populous.world/']",100
+2459,4898,indaHash,1,"['https://indahash.com/', 'https://indahash.com/ico']",100
+6543,4906,Barter,1,"['http://barter.company', 'https://smartplace.barter.company']",10
+6664,4915,GRAP,1,['https://grap.finance/#/'],100
+8450,4918,Shield Finance,1,['https://shieldfinance.io/'],55
+11151,4922,Shiba Link,1,['https://www.shibalink.com/'],20
+2219,4928,SpankChain,1,['https://spankchain.com/'],85
+9889,4929,Bistroo,1,"['https://www.bistroo.io', 'https://www.bistroo.nl']",90
+8019,4930,N3RD Finance,1,['https://n3rd.finance'],100
+8905,4933,BitSong,1,['https://bitsong.io/en'],100
+7837,4935,Apple Finance,0,"['https://applefi.farm/abouts', 'https://applefi.medium.com/']",-1
+11511,4941,Honey Defi,1,['https://www.honeydefi.com/'],60
+8011,4956,Davincij15 Token,1,"['https://www.davincicodes.net/', 'https://www.davincij15.com']",61
+11217,4963,Chronic Token,1,['https://www.chronictoken.io/'],20
+8841,4965,Arro Social,1,['https://www.arro.io'],100
+8268,4966,Solomon Defi,1,['https://solomondefi.com'],45
+10607,4970,Ethereum Pro OLD CONTRACT,1,['https://www.eprotoken.com/#tokenomics'],20
+8023,4971,SPICE,1,['https://scifi.finance/'],65
+4276,4975,Defi,0,['https://www.defilab.com/'],90
+8269,4988,YFTether,1,['https://yftether.io/'],60
+7643,5002,Nyan V2,1,['https://nyan.finance'],90
+10423,5003,HollaEx Token,1,"['https://pro.hollaex.com/trade/xht-usdt', 'https://pro.hollaex.com/']",70
+4077,5015,Maya Preferred,1,['https://mayapreferred.io'],66
+8103,5021,unilock.network,1,['https://unilock.network'],65
+3328,5022,CMITCOIN,1,['https://cmitcoin.com/'],61
+4108,5023,En-Tan-Mo,1,['http://www.entanmo.com/'],80
+6773,5025,FUTUREXCRYPTO,1,['http://futurexcrypto.com/'],46
+7717,5035,TecraCoin,1,['https://tecra.space'],69
+1037,5045,Agoras,1,['http://www.idni.org/'],80
+6888,5060,Omega Protocol Money,0,"['https://omgswap.in/', 'https://omgswap.com/']",95
+11506,5074,Wrapped FCT,1,['https://wfct.network'],75
+4093,5082,Uranus,1,['https://www.uranus.io/'],-1
+7633,5086,wormhole.finance,0,['https://wormhole.finance/'],-1
+5052,5093,Apple Network,0,['https://www.applenetwork.io/'],80
+8241,5099,Prophecy,1,['https://prophecyproject.io/'],45
+3929,5101,BQT,1,['https://bqt.io/'],90
+9115,5111,WorkQuest Token,1,['https://workquest.co'],56
+8597,5113,MP4,1,['https://mp4.social/'],100
+5054,5116,Coupon Chain,1,"['https://www.coupon-chain.org', 'https://www.mezzofy.com/']",90
+6626,5119,SPACE-iZ,1,['https://www.space-iz.com/'],100
+9031,5121,Meliora,1,['https://meliora.finance/'],16
+7423,5136,RUSH,1,['https://therush.io'],50
+2066,5137,Everus,0,['https://everus.org/'],30
+9785,5138,Sensitrust,1,['https://www.sensitrust.io'],75
+8556,5140,Tcoin,1,"['https://tcoin.fun', 'https://app.tcoin.fun']",15
+6850,5153,DeFiat,1,['https://defiat.net/'],65
+5785,5161,STPAY,1,['https://stpay.org/'],70
+7969,5162,XVIX,1,['https://xvix.finance/'],65
+5907,5167,Crypto Cricket Club,1,['https://cryptocricketclub.com/'],55
+3789,5177,Boltt Coin ,1,['https://bolttcoin.io/'],95
+7475,5179,Camp,1,['https://www.camp-global.com/'],100
+2371,5186,United Traders Token,1,['https://uttoken.io/'],70
+7333,5190,DeFi Insurance Protocol,0,['https://dfip.io/'],100
+7884,5199,Elite Swap,0,"['https://eliteswap.io', 'https://eliteswap.io/info']",60
+8629,5202,Stacker Ventures,1,['https://stacker.vc'],40
+5722,5214,HOMT,0,['https://homt.net/'],45
+10333,5219,PUGLIFE,0,['https://puglife.io/'],15
+5889,5227,snglsDAO,1,['https://snglsdao.io/'],95
+8131,5232,Curio Governance,1,"['https://curioinvest.com/curio-stablecoin', 'https://vote-stablecoin.curioinvest.com']",60
+6935,5242,Fiscus.fyi,1,['https://fiscus.fyi/'],60
+6980,5249,AladiEx,1,['https://www.aladiex.com'],100
+5857,5251,FLAMA,1,['https://flamanet.io'],70
+3925,5291,Tratok,1,['https://tratok.com'],100
+7986,5303,Hub - Human Trust Protocol,1,"['https://hubtoken.org', 'https://joinhub.com']",45
+5843,5306,STONK,1,['https://stonk.dev'],90
+4983,5314,Demeter Chain,0,['https://dmtc.io/'],-1
+5253,5323,The Hustle App,1,"['https://www.hustletoken.org', 'https://www.hustleapp.org']",80
+5577,5325,Litecoin SV,1,['https://litecoin-sv.com/'],1
+6217,5329,TokenBacon,1,['https://tokenbacon.com/'],65
+3744,5333,WEBN token,0,['https://www.webinnovationph.com'],-1
+5659,5335,Xank,1,"['https://xank.io/', 'https://xank.app/']",73
+4020,5336,USDQ,1,['https://usdq.platinum.fund/'],90
+4892,5337,Marshal Lion Group Coin,1,['https://mlgc.io/'],100
+3664,5344,AgaveCoin,1,['https://agavecoin.io/'],95
+3595,5345,PalletOne,1,['https://pallet.one/'],55
+2911,5357,ORS Group,1,['https://www.orsgroup.io/'],75
+7554,5358,Hiz Finance,1,['https://hizfinance.com/'],9
+3404,5363,Wixlar,0,['https://wixlar.com'],70
+7488,5366,ShareAt,0,['https://shareat.io/'],-1
+3325,5367,Robotina,1,['https://robotinarox.io/'],55
+5529,5368,ASYAGRO,1,['https://asyagro.io/'],100
+2618,5381,StockChain,1,['http://stockchain.co/'],75
+7238,5388,TKN Token,1,"['https://www.tknt.io/', 'https://www.tkn.com/']",80
+2871,5396,Ubique Chain Of Things,1,"['http://uct.foundation/', 'https://www.ucot.world/']",70
+4063,5404,7Eleven,0,['https://7elevencoins.com'],-1
+5789,5405,SaveToken,1,['https://savetoken.us/'],64
+4920,5414,Aerotoken,0,['https://aerotoken.org'],50
+5853,5426,LivenPay,1,"['https://liven.com.au', 'https://livenpay.io']",85
+4693,5429,Global X Change Token,0,['http://www.globalxchange.com/'],100
+1982,5447,Kyber Network Crystal Legacy,1,['https://kyber.network/'],100
+2352,5449,Coinlancer,1,"['https://www.coinlancer.io/', 'https://www.coinlancer.com/']",60
+2380,5450,ATN,0,['https://atn.io/'],-1
+2524,5455,Universa,1,['https://universablockchain.com/'],100
+2568,5456,JET8,0,['https://jet8.io/'],-1
+2670,5457,Pixie Coin,1,['http://www.pixiecoin.io/'],90
+2719,5458,Cybereits,1,['https://cybereits.com/'],-1
+2724,5459,Zippie,1,['https://zippie.org/'],94
+2895,5462,Coni,1,['https://www.coinbene.com'],1
+3026,5465,IOV BlockChain,1,['http://blockchain.iovscan.com'],45
+3110,5469,NewsToken,0,['http://ne.ws/html/'],-1
+3152,5471,Obitan Chain,1,['https://www.obitanchain.org/'],69
+3208,5472,YUKI,1,['https://www.yukicoin.jp/en'],-1
+3227,5473,Traceability Chain,1,['https://tacchain.cn'],100
+3229,5474,Centaure,1,['https://centaure.io/'],75
+3354,5479,TRONCLASSIC,1,['https://www.tronclassic.org/'],100
+3838,5487,Esportbits,1,['https://esportbits.com/'],90
+3905,5490,DUO Network Token,1,['https://duo.network/'],90
+3923,5491,VENJOCOIN,1,['https://venjocoin.io'],55
+4010,5494,Sparkster,1,"['https://sparkster.me/', 'https://t.me/SparksterNews']",60
+4133,5498,YottaChain,1,['http://www.yottachain.io'],65
+4150,5499,GLOBEX,1,['https://globex.site'],-1
+4205,5502,Xenoverse,1,['https://xenoverse.io/'],100
+4301,5506,Tutor's Diary,1,['https://www.tutorsdiary.io/'],80
+4325,5508,Bitscoin,1,"['http://bitscointoken.com', 'http://dashboard.bitscointoken.com']",90
+4362,5509,Shuffle Monster,1,"['https://shuffle.monster/', 'https://heapwars.com']",54
+4439,5511,Kripton,1,"['https://www.l-pesa.com/', 'https://ico.lpesa.io/']",63
+4774,5525,1irstGold,0,['https://1irstgold.com/'],-1
+4806,5526,Tesra,1,['https://tesra.io/'],100
+4941,5534,Bispex,1,['https://bispex.com'],84
+5065,5540,Axial Entertainment Digital Asset,1,['http://axl.team'],100
+5076,5541,Global Reserve System,1,['https://globreserve.github.io/'],100
+5094,5543,Level01,1,"['https://level01.io/', 'https://level01.io/category/news']",35
+5105,5545,1AI Token,1,['https://www.1ai.io'],80
+5110,5546,RIFT Token,1,"['https://www.rifttoken.com', 'https://www.rifttoken.com/our-team/']",100
+5135,5547,AfroDex,0,['http://afrodexlabs.com/native-token.html'],70
+5219,5549,USD Bancor,1,['https://usdb.peg.network/'],70
+5264,5551,Compound SAI,1,['https://compound.finance/'],100
+5322,5556,GermanCoin,1,['https://germancoin.info/'],74
+5494,5566,eToro New Zealand Dollar,1,['https://www.etoro.com/crypto/exchange/'],100
+5507,5567,eToro Euro,1,['https://www.etoro.com/crypto/exchange/'],100
+5550,5569,BeeEx,1,"['https://www.beeex.com/', 'https://www.beex.one/']",80
+5564,5572,ARMTOKEN,1,['https://armtoken.io'],90
+5668,5577,0xMonero,1,['https://0xmonero.com/0xmr'],58
+5673,5578,EYES Protocol,1,['https://www.eyesprotocol.io/en'],100
+5716,5580,Gas Token Two,1,['https://gastoken.io/'],40
+5732,5583,BITCOINHEDGE,1,['https://bitcoinhedge.io/'],60
+5733,5584,IOOX System,1,"['https://www.ioox.me/', 'https://www.ioox.org/']",76
+5749,5585,Aave TUSD,1,"['https://aave.com/', 'https://ethlend.io']",100
+5754,5590,Aave BAT,1,"['https://aave.com/', 'https://ethlend.io']",100
+5763,5592,Aave DAI,1,"['https://aave.com/', 'https://ethlend.io']",100
+5764,5593,sBTC,1,['https://www.synthetix.io/'],100
+5769,5594,sADA,1,['https://www.synthetix.io/'],100
+5793,5595,Kublaicoin,0,['https://kublaicoin.io/'],100
+5811,5597,ENTONE,1,['https://entone.io'],45
+5826,5598,EtherBone,1,"['https://dogdata.io/', 'https://mydogdata.com/']",60
+5844,5600,Cipher Core Token,1,['https://www.cipher-core.com/'],80
+5850,5602,Bitpayer Token,1,"['https://bitpayer.io/', 'https://dex.bitpayer.io/']",95
+5856,5603,Bankroll Vault,1,['https://bankroll.network'],80
+5884,5607,Decurian,1,"['https://decurian.com/', 'https://meagainstu.com']",50
+5969,5621,KIWI TOKEN,1,['https://kiwi-token.com/'],55
+6025,5626,DigiMax DGMT,0,['https://digimaxtoken.io'],55
+6038,5632,Aave WBTC,1,['https://aave.com/atokens'],100
+6119,5636,Foundry,1,['https://foundrydao.com'],85
+6200,5653,iBTC (Synthetix),1,['https://www.synthetix.io/'],100
+6204,5654,sBNB,1,['https://www.synthetix.io/'],100
+6551,5682,Frens Community,0,['https://frens.link/'],85
+6572,5685,Equus Mining Token,0,['https://www.equus.dev'],-1
+6617,5691,Ethereum Vault,0,['https://ethereumvault.global/'],85
+6645,5694,COIL,1,['https://coilcrypto.com/'],60
+6685,5697,Newtonium,0,['https://www.newtonium.org/'],-1
+6704,5699,JBOX,0,['https://jboxcoin.org/'],70
+6723,5701,Blaze Network,1,['https://www.blazenetwork.online/'],58
+6738,5703,Quantbook,1,['http://quantbook.io/'],73
+6809,5705,GolderGames,1,['https://goldergames.com/'],100
+6818,5707,Popcorn,0,"['https://popcorntoken.dev', 'https://popcorntoken.dev/dapp']",80
+6875,5712,YFIBusiness,0,['https://yfibusiness.finance/'],55
+6895,5714,BlackHoleSwap-Compound DAI/USDC,1,"['https://beta.blackholeswap.com/swap', 'https://hakka.finance/']",80
+6909,5715,YFA Finance,0,['https://yfa.cash/'],25
+6982,5724,OBIC,1,['https://orionblackic.com/'],65
+6984,5725,FINANCIAL INVESTMENT TOKEN,1,['https://fitoken.org/'],50
+7021,5727,OFIN Token,0,['https://ofin.io'],80
+7025,5729,Vybe,0,['https://vybe.finance'],85
+7061,5733,YFarmLand Token,1,['https://yfarmland.finance/'],25
+7148,5744,ISTARDUST,1,"['https://istardust.io/', 'https://corp.istardust.io/']",50
+7214,5760,CryptoWater,1,['https://cryptowater.si/'],100
+7223,5763,Dfinance,1,['https://dfinance.co'],95
+7234,5764,Yearn Land,0,"['https://yland.finance', 'https://beta.yland.finance']",80
+7275,5772,Yearn Finance Ecosystem,0,['https://yfiec.finance'],50
+7306,5775,Smol,1,['https://www.smol.finance/'],40
+7330,5780,OWL Token (StealthSwap),1,['https://stealthswap.org/'],35
+7397,5790,Tavittcoin,1,['https://tavitt.co.jp/'],100
+7450,5796,PayUSD,1,['https://payusd.io/'],65
+7469,5798,Apiary Fund Coin,1,['https://afcoin.uk/'],46
+7489,5801,BananoDOS,1,['https://bananodos.cc/'],20
+7492,5802,Zin Finance,0,['https://zin.finance/'],100
+7496,5803,Enoki Finance,1,['https://enoki.finance'],30
+7513,5804,BitOnyx,1,"['https://bitonyx.io', 'https://coinsforecast.com']",75
+7516,5805,Naz Coin,1,['https://nazcoin.net/'],100
+7517,5806,YFI CREDITS GROUP,0,['http://yficredits.com'],90
+7537,5808,Tatcoin,1,['https://abitnetwork.com/'],85
+7538,5809,Degens,1,['https://degens.com/'],95
+7541,5810,HubDAO,1,"['https://hubdao.io/', 'https://app.hubdao.io/']",50
+7600,5815,Wrapped Conceal,1,"['https://conceal.network', 'https://bridge.conceal.network']",65
+7601,5816,zHEGIC,1,['https://zlot.finance/'],30
+7609,5817,Fiola,0,['https://fiola.network/'],90
+7627,5819,PicaArtMoney,1,"['http://www.picaproject.co.kr/main.php', 'http://picaproject.com/']",95
+7629,5820,YFIII,0,['https://yfiii.money/'],90
+7640,5821,Future-Cash Digital,1,"['https://future-cash.digital/#road-map', 'https://future-cash.digital/#road-map']",20
+7680,5829,Sav3Token,1,['https://sav3.org/#/'],90
+7688,5830,SOMIDAX,1,['https://somidax.net'],85
+7689,5831,Yup,1,"['https://yupprotocol.org', 'https://yup.io']",80
+7701,5833,SUP8EME,1,['https://sup8eme.com/'],75
+7707,5834,Fromm Car,1,"['https://fromm.io/', 'https://fromm.io/en/']",85
+7712,5836,Freedom Reserve,1,['https://freedomreserv.eth.link'],100
+7713,5837,Order of the Black Rose,1,['https://nftobr.com'],35
+7714,5838,swiss.finance,1,['https://swissfarming.finance/'],100
+7733,5842,Light Coin Exchange Token,0,"['https://lightcoinex.com', 'https://www.lightcoin.exchange']",90
+7734,5843,TOM Finance,1,['https://tom.finance/'],65
+7735,5844,Yuan,1,['https://1yuan.finance/'],100
+7756,5846,oBTC,1,['https://www.boringdao.com/'],70
+7766,5848,Divert Finance,1,['https://divertfinance.com/'],70
+7771,5849,HoldToWin,1,['https://holdtowin.eth.link'],100
+7781,5852,LeLeFoodChain,0,"['https://lelefoodchain.com/', 'https://www.lelefood.net/home']",100
+7782,5853,Ethanol,1,['https://ethanoltoken.com'],30
+7785,5854,Bundles Finance,1,['https://bundles.finance'],40
+7801,5856,HRDCOIN,1,"['http://www.hrdcoin.com', 'http://www.smenergy.tech/index_en.php']",16
+7839,5857,Degov,1,['https://debaseonomics.io/'],5
+7851,5858,Adventure Token,1,['https://www.adventuretoken.com/'],35
+7865,5859,WaterDrop,0,['https://waterdrop.business/'],50
+7880,5860,YFIDapp,1,['https://yfidapp.finance/'],40
+7886,5861,Glox Finance,1,['https://glox.finance'],95
+7936,5869,FOMPOUND,1,['https://www.fompound.com/'],80
+7998,5876,Predictz,1,['https://predictz.io/'],70
+8007,5877,Natural Farm Union Protocol,1,"['https://nfup.io/', 'https://www.nfupmall.com/']",85
+8013,5879,PIRANHAS,1,['https://piranhas.finance'],85
+8021,5880,HLand Token,1,['https://htw.land/'],25
+8035,5881,Grom,1,['https://cryptochief.net/GROM-na-strazhe-kriptoaktivov'],50
+8067,5886,Nyantereum International,1,"['https://nyantereum.com', 'https://nyantereuminternational.com/']",60
+8077,5887,Rootkit Finance,1,['https://rootkit.finance'],55
+8089,5888,Restore,0,"['https://www.restoretoken.net/', 'https://www.restoretoken.net/restore-airdrop/']",90
+8095,5890,Orient,0,['https://orientproject.finance'],100
+8110,5891,Tacoswap,1,['https://www.tacoswap.io/'],90
+8124,5893,DRC mobility,1,['https://drc.asia'],75
+8130,5894,Supreme Finance,1,['https://www.supremefinance.io/'],30
+8138,5896,LinkBased,1,['https://linkbased.org'],45
+8142,5897,IDL Token,1,['https://idlswap.io/'],80
+8146,5898,Zipmex,1,['https://www.zipmex.com'],100
+8185,5899,Trism,1,"['https://trism.io/', 'https://opensea.io/collection/trism-originals']",80
+8199,5902,Securypto,0,['https://www.securypto.io/'],100
+8226,5908,Xdef Finance,1,['https://xdef.finance/'],70
+8312,5915,Bitbot Protocol,0,['https://bitbotprotocol.tech/'],-1
+8324,5916,PieDAO Yearn Ecosystem Pie,1,['https://www.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31'],60
+8326,5917,CURE Farm,0,['https://cure.farm'],100
+8330,5918,Xstable.Protocol,1,"['https://xstable.finance/', 'https://xstable.finance/img/logo-200x200.png']",100
+8338,5921,Tokemon,1,['https://tokemon.io/'],70
+8348,5924,USDEX,0,['https://usdex.co/'],90
+8374,5928,protocol finance,1,['https://www.protocolfinance.com/'],65
+8392,5930,MoonDayPlus,1,['https://moondayplus.com'],70
+8412,5933,MP3,1,['https://mp3finance.com/'],65
+8436,5935,Freeliquid,1,['https://freeliquid.io/'],75
+8437,5936,USDFreeLiquidity,1,['https://freeliquid.io/'],75
+8442,5937,EthicHub,1,"['https://ethichub.com', 'http://app.ethichub.com']",100
+8446,5939,DeFiStarter,1,['https://defistarter.io/'],65
+8482,5942,mStable BTC,1,"['https://mstable.org/', 'https://app.mstable.org/#/mbtc/mint']",100
+8493,5944,Previse,0,['https://previse.finance/'],-1
+8513,5947,Basix,1,['https://basix.xyz/'],80
+8560,5952,WhaleRoom,1,"['https://whaleroom.org', 'https://app.whaleroom.org']",45
+8680,5965,DEOR,1,['https://www.deor.io/'],60
+8687,5967,Polkazeck,0,['https://polkazeck.io/'],65
+8761,5975,Decentralized Nations,0,['https://denations.com/'],58
+8775,5977,Value Set Dollar,1,['https://valueset.finance/#/'],65
+8780,5979,Umbria Network,1,['https://umbria.network/'],90
+8803,5983,B26 Finance,1,['https://b26.finance'],75
+8815,5986,Shadetech,0,['https://shdtech.online/'],-1
+8889,5997,Oracle Top 5 Tokens Index,1,['https://indexed.finance/index/orcl5'],80
+8953,6004,MYFinance,1,"['https://mys.finance', 'https://app.mys.finance']",80
+9032,6014,DDS.Store,1,['https://dds.store/'],68
+9045,6015,JPYC,1,['https://jpyc.jp/'],70
+9050,6017,Delta Exchange Token,0,"['https://www.delta.exchange/deto', 'https://www.delta.exchange/']",79
+9087,6022,xDeFi,1,"['https://xdefi.com/', 'https://farm.xdefi.com/#/']",95
+9106,6023,RougeCoin,1,['https://www.rougecoin.xyz/'],10
+9123,6024,SEFI,1,['https://secretswap.io'],60
+9151,6029,ShardingDAO,1,['https://shardingdao.com/'],50
+9181,6030,YFS.FINANCE,1,['https://www.yfsfinance.org/'],70
+9192,6032,Kambria Yield Tuning Engine,1,['https://kambria.io/blog/kambria-yield-tuning-engine/'],100
+9280,6039,Bulldog Token,1,['https://bulldogtoken.com'],35
+9360,6047,EmploymentCoin,1,['https://www.ec2token.com'],65
+9611,6076,ElenaUSD,1,['https://app.elena.finance/'],100
+9612,6077,Elena Protocol,1,['https://app.elena.finance/'],100
+9823,6105,SUNI,1,"['https://sunitoken.com', 'https://sunicoin.org/']",45
+9871,6109,Kesef Finance,1,['https://kesef.finance'],60
+9907,6119,Low Orbit Crypto Cannon,1,['https://loworbit.finance/'],100
+10003,6137,ApeHaven,1,['https://www.apehaven.com/'],70
+10007,6138,Snoop Doge,1,['https://snoge.io/'],50
+10043,6153,Alphawolf Finance,0,['https://www.alphawolf.finance/'],-1
+10048,6154,Keisuke Inu,1,['https://www.keisukeinu-finance.com/'],70
+10189,6196,Hina Inu,1,['https://www.realhinainu.com/'],35
+10328,6236,Dirty Finance,1,['https://dirty.finance/'],40
+10345,6240,Cribnb Decentralized Renting and Sharing,1,['https://cribnb.org'],55
+10370,6248,Global DeFi,1,['https://gdefi.finance/'],100
+10439,6263,StakeWise,1,['https://www.stakewise.io'],75
+10479,6276,Bugg Inu,1,['https://bugg.gg'],100
+10543,6288,Ballbag Token,1,['https://ballbagtoken.com'],100
+10626,6320,Polkadog,1,['https://polkadog.io'],25
+10638,6323,Raku Coin,0,['https://www.rakucoin.com'],30
+10660,6330,AUTZ Token,1,['https://www.autz.io'],55
+10760,6358,The Cosby Token,1,['https://cosbytoken.org'],65
+10859,6382,Ponzu Inu,1,['https://ponzuinu.finance'],65
+10874,6386,Shiberus Inu,1,['https://shiberusinu.com'],1
+10947,6409,GODL,1,['https://godl.app'],55
+11025,6426,SafeBank ETH,1,"['https://safebitcoin.io/', 'https://safebitcoin.app/']",5
+11090,6445,Invitoken,1,['https://www.invitree.io'],70
+11323,6486,Crypto Carbon Energy,1,"['https://cycecoin.com/', 'https://cycecoin.org/']",70
+11328,6487,Ethereum Vault,0,['https://ethereumvault.finance'],100
+11391,6491,Stable 1inch,1,['https://app.ichi.org/'],75
+11570,6508,The Recharge,0,['https://www.therecharge.io/'],10
+11591,6509,Raid Token,1,['https://www.raidguild.org'],60

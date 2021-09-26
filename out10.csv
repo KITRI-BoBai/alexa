@@ -1,0 +1,51 @@
+,id,rank,name,valid_url,urls.website,web_score
+500,2428,1455,Scry.info,1,['https://home.scry.info/'],54
+501,5544,1456,Aluna.Social,1,"['https://aluna.social', 'https://aluna.social/token']",95
+502,2248,1458,Cappasity,1,"['https://artoken.io/', 'https://cappasity.com/']",100
+503,6940,1463,Lead Wallet,1,['https://www.leadwallet.io'],50
+504,9553,1470,B-cube.ai,1,"['https://ico.b-cube.ai/', 'https://www.b-cube.ai/index.html']",75
+505,2546,1472,Remme,1,"['https://remme.io/', 'https://tokensale.remme.io/']",70
+506,7310,1474,Gem Exchange And Trading,1,['https://www.gxtglobal.com/'],90
+507,5868,1475,STATERA,1,['https://stateratoken.com/'],85
+508,7739,1479,DexKit,1,['http://dexkit.com/'],100
+509,2837,1480,0xBitcoin,1,['https://0xbitcoin.org/'],70
+510,2438,1484,Acute Angle Cloud,1,['http://acuteangle.com/'],100
+511,10845,1485,Zerogoki USD,1,"['https://zerogoki.org/', 'https://zerogoki.finance']",30
+512,3912,1490,W Green Pay,1,['https://wpay.sg/'],55
+513,7498,1496,Yield Protocol,1,['https://yieldprotocol.org/'],45
+514,5086,1497,Pawtocol,1,['https://pawtocol.com/'],35
+515,2437,1500,YEE,0,['https://www.yeefoundation.com/'],-1
+516,2506,1502,Swarm,1,"['https://www.swarmnetwork.org', 'https://www.swarm.fund/']",95
+517,5187,1508,Jarvis Network,1,['https://jarvis.network'],83
+518,1905,1509,TrueFlip,1,"['https://trueflip.io/', 'https://steemit.com/@trueflip/']",16
+519,895,1511,Xaurum,1,['http://www.xaurum.org/'],90
+520,2735,1512,Content Neutrality Network,1,['https://cnntoken.io/'],65
+521,5468,1518,Isiklar Coin,1,['https://www.isikc.io'],1
+522,10372,1524,Dacxi,1,"['https://dacxi.com/dacxi-coin', 'https://dacxi.com/']",100
+523,4124,1528,EOS TRUST,0,['https://eostrustlink.io/'],-1
+524,7806,1529,Cornichon,1,['https://cornichon.ape.tax/'],55
+525,3066,1530,BitCapitalVendor,1,['https://www.bitcv.com'],65
+526,4520,1537,Decentralized Vulnerability Platform,1,['https://dvpnet.io/'],-1
+527,8709,1539,ETHA Lend,1,['https://ethalend.org/'],100
+528,2699,1547,Sharder,1,['https://sharder.org/'],60
+529,9245,1550,Signata,1,"['https://signata.net', 'https://sata.technology/']",75
+530,3475,1551,BOX Token,0,['https://box.la/'],-1
+531,2698,1553,Hydro,1,['https://projecthydro.org'],75
+532,2691,1554,Penta,0,['https://www.penta.global/'],90
+533,11164,1562,Vabble,1,['https://www.vabble.com'],100
+534,7885,1563,Katalyo,1,"['https://www.katalyo.com', 'https://defi.katalyo.com']",90
+535,2667,1565,FintruX Network,1,['https://www.fintrux.com/'],100
+536,5203,1569,Perth Mint Gold Token,1,['https://www.pmgt.io'],80
+537,2938,1571,Hashgard,1,['https://www.hashgard.com/'],85
+538,5587,1582,2key.network,1,"['https://2key.network', 'https://2key.network']",40
+539,5409,1584,4THPILLAR TECHNOLOGIES,1,['https://the4thpillar.io/'],65
+540,8478,1585,DAOventures,1,['https://www.daoventures.co'],60
+541,8710,1590,bAlpha,1,['https://bigdataprotocol.com/'],80
+542,9024,1591,disBalancer,1,['https://disbalancer.com/'],65
+543,7398,1594,Coreto,1,['https://coreto.io'],75
+544,7783,1595,Open Governance Token,1,['https://opendao.io/'],65
+545,1984,1596,Substratum,1,['https://substratum.net/'],100
+546,3779,1605,CoTrader,1,['https://cotrader.com/'],65
+547,7874,1609,PieDAO DEFI++,1,['https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033'],35
+548,4091,1611,PIXEL,1,['https://piction.network/en/'],90
+549,8772,1612,ZUSD,1,['https://stablecoin.z.com/'],100
