@@ -57,7 +57,7 @@ def get_rank(data):
         driver.implicitly_wait(4)                      #안정성을 위해서 5초 wait
         driver.get(url)
         driver.find_elements_by_id
-        time.sleep( random.uniform(0,2) )
+        time.sleep( random.uniform(0,5) )
         driver.find_elements_by_class_name('rankmini-rank')
         rank = driver.find_element_by_xpath("//*[@id=\"card_mini_trafficMetrics\"]/div[3]/div[2]/div[1]").text
         print("url : {} , rank {} : ".format(url,rank))
@@ -68,10 +68,20 @@ def get_rank(data):
             rank = driver.find_element_by_xpath("//*[@id=\"card_mini_trafficMetrics\"]/div[2]/div[2]/div[1]").text
             print("url : {} , rank {} : ".format(url,rank))
             return rank
-        except:    
-            rank = 'Err'
-            print("Error ! url : {} , rank {} : ".format(url,rank))
-            return rank
+        except:
+            try:
+                rank = driver.find_element_by_xpath("//*[@id=\"card_rank\"]/section[2]/div[2]/div[1]/div[2]/p[1]").text
+                print("url : {} , rank {} : ".format(url,rank))
+                return rank
+            except:
+                try:
+                    rank = driver.find_element_by_xpath("//*[@id=\"card_rank\"]/section[2]/div[2]/div[1]/div[1]").text
+                    print("url : {} , rank {} : ".format(url,rank))
+                    return rank
+                except:    
+                    rank = 'Err'
+                    print("Error ! url : {} , rank {} : ".format(url,rank))
+                    return rank
     finally:
 #        driver.close()
        driver.quit()
@@ -89,11 +99,11 @@ if __name__=='__main__':
     file_count = split_csv('total_v1.1.csv')
 
     for i in range(file_count):
-        file_name = 'out{}.csv'.format(i+8)
+        file_name = 'out{}.csv'.format(i+9)
         data = pd.read_csv(file_name,encoding ='CP949')
         data = data.to_dict('records')
         try:
-            pool = Pool(processes=1)
+            pool = Pool(processes=4)
             result = pool.map(get_rank,data)
             print("------------------------------------------")
             print(file_name + " is completed")
